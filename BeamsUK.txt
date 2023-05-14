@@ -1,0 +1,1448 @@
+
+#EXTINF:-1 tvg-id="BBCOneLondon.uk" tvg-name="UK | BBC One FHD" tvg-logo="https://i.imgur.com/FQs0y4K.png" group-title="UK | General",UK | BBC One FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8566
+#EXTINF:-1 tvg-id="BBCOneLondon.uk" tvg-name="UK | BBC One HD" tvg-logo="https://i.imgur.com/FQs0y4K.png" group-title="UK | General",UK | BBC One HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8764
+#EXTINF:-1 tvg-id="BBCOneLondon.uk" tvg-name="UK | BBC One SD" tvg-logo="https://i.imgur.com/PsDHCv1.png" group-title="UK | General",UK | BBC One SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8848
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="UK | BBC Two FHD" tvg-logo="https://i.imgur.com/Gb3UQYC.png" group-title="UK | General",UK | BBC Two FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8567
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="UK | BBC Two HD" tvg-logo="https://i.imgur.com/Gb3UQYC.png" group-title="UK | General",UK | BBC Two HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8765
+#EXTINF:-1 tvg-id="BBC.Two.uk" tvg-name="UK | BBC Two SD" tvg-logo="https://i.imgur.com/aiGNM6G.png" group-title="UK | General",UK | BBC Two SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8846
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="UK | ITV1 FHD" tvg-logo="https://i.imgur.com/NUodOpI.png" group-title="UK | General",UK | ITV1 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8584
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="UK | ITV1 HD" tvg-logo="https://i.imgur.com/NUodOpI.png" group-title="UK | General",UK | ITV1 HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8519
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="UK | ITV1 SD" tvg-logo="https://i.imgur.com/UKiWuNz.png" group-title="UK | General",UK | ITV1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8923
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK | Channel 4 FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/channel-4-hd-uk.png" group-title="UK | General",UK | Channel 4 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8572
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK | Channel 4 HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/channel-4-hd-uk.png" group-title="UK | General",UK | Channel 4 HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8534
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK | Channel 4 SD" tvg-logo="https://logo.iptveditor.com/channel4.png" group-title="UK | General",UK | Channel 4 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8808
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK | E4 FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/e-4-hd-uk.png" group-title="UK | General",UK | E4 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8580
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK | E4 HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/e-4-hd-uk.png" group-title="UK | General",UK | E4 HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8541
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK | E4 SD" tvg-logo="https://logo.iptveditor.com/e4.png" group-title="UK | General",UK | E4 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8888
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-name="UK | Channel 5 FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/channel-5-hd-uk.png" group-title="UK | General",UK | Channel 5 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8573
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-name="UK | Channel 5 HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/channel-5-hd-uk.png" group-title="UK | General",UK | Channel 5 HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8535
+#EXTINF:-1 tvg-id="Channel.5.uk" tvg-name="UK | Channel 5 SD" tvg-logo="https://logo.iptveditor.com/channel5.png" group-title="UK | General",UK | Channel 5 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8864
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK | Dave FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/dave-hd-uk.png" group-title="UK | General",UK | Dave FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8577
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK | Dave HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/dave-hd-uk.png" group-title="UK | General",UK | Dave HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8538
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK | Dave SD" tvg-logo="https://logo.iptveditor.com/dave.png" group-title="UK | General",UK | Dave SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8877
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK | Gold FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/gold-hd-uk.png" group-title="UK | General",UK | Gold FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8583
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK | Gold HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/gold-hd-uk.png" group-title="UK | General",UK | Gold HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8517
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK | Gold SD" tvg-logo="https://logo.iptveditor.com/gold.png" group-title="UK | General",UK | Gold SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8897
+#EXTINF:-1 tvg-id="ComedyCentralUK.uk" tvg-name="UK | Comedy Central FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/comedy-central-icon-hd-uk.png" group-title="UK | General",UK | Comedy Central FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8575
+#EXTINF:-1 tvg-id="ComedyCentralUK.uk" tvg-name="UK | Comedy Central HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/comedy-central-icon-hd-uk.png" group-title="UK | General",UK | Comedy Central HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8536
+#EXTINF:-1 tvg-id="ComedyCentralUK.uk" tvg-name="UK | Comedy Central SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/comedy-central-icon-uk.png" group-title="UK | General",UK | Comedy Central SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8873
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK | Sky Arts FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-arts-hd-uk.png" group-title="UK | General",UK | Sky Arts FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8595
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK | Sky Arts HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-arts-hd-uk.png" group-title="UK | General",UK | Sky Arts HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8769
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK | Sky Arts SD" tvg-logo="https://logo.iptveditor.com/skyarts.png" group-title="UK | General",UK | Sky Arts SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8974
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK | Sky Atlantic FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-atlantic-hd-uk.png" group-title="UK | General",UK | Sky Atlantic FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8596
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK | Sky Atlantic HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-atlantic-hd-uk.png" group-title="UK | General",UK | Sky Atlantic HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8770
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK | Sky Atlantic SD" tvg-logo="https://logo.iptveditor.com/skyatlantic.png" group-title="UK | General",UK | Sky Atlantic SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8975
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK | Sky Comedy FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-comedy-hd-uk.png" group-title="UK | General",UK | Sky Comedy FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8607
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK | Sky Comedy HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-comedy-hd-uk.png" group-title="UK | General",UK | Sky Comedy HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8782
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK | Sky Comedy SD" tvg-logo="https://logo.iptveditor.com/skycomedy.png" group-title="UK | General",UK | Sky Comedy SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8987
+#EXTINF:-1 tvg-id="skymax.uk" tvg-name="UK | Sky Max FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-max-hd-uk.png" group-title="UK | General",UK | Sky Max FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8556
+#EXTINF:-1 tvg-id="skymax.uk" tvg-name="UK | Sky Max HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-max-hd-uk.png" group-title="UK | General",UK | Sky Max HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8555
+#EXTINF:-1 tvg-id="skymax.uk" tvg-name="UK | Sky Max SD" tvg-logo="https://logo.iptveditor.com/skymax.png" group-title="UK | General",UK | Sky Max SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8554
+#EXTINF:-1 tvg-id="skyreplay.uk" tvg-name="UK | Sky Replay SD" tvg-logo="https://logo.iptveditor.com/skyreplay.png" group-title="UK | General",UK | Sky Replay SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8992
+#EXTINF:-1 tvg-id="skyscifi.uk" tvg-name="UK | Sky Sci-Fi FHD" tvg-logo="https://i.imgur.com/KasEQvp.png" group-title="UK | General",UK | Sky Sci-Fi FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8615
+#EXTINF:-1 tvg-id="skyscifi.uk" tvg-name="UK | Sky Sci-Fi HD" tvg-logo="https://i.imgur.com/KasEQvp.png" group-title="UK | General",UK | Sky Sci-Fi HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8790
+#EXTINF:-1 tvg-id="skyscifi.uk" tvg-name="UK | Sky Sci-Fi SD" tvg-logo="https://i.imgur.com/C7ikJ3F.png" group-title="UK | General",UK | Sky Sci-Fi SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9010
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-name="UK | Sky Showcase FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-showcase-hd-uk.png" group-title="UK | General",UK | Sky Showcase FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8611
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-name="UK | Sky Showcase HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-showcase-hd-uk.png" group-title="UK | General",UK | Sky Showcase HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8786
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-name="UK | Sky Showcase SD" tvg-logo="https://logo.iptveditor.com/skyshowcase.png" group-title="UK | General",UK | Sky Showcase SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8991
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK | Sky Witness FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-witness-hd-uk.png" group-title="UK | General",UK | Sky Witness FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8612
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK | Sky Witness HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-witness-hd-uk.png" group-title="UK | General",UK | Sky Witness HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8787
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK | Sky Witness SD" tvg-logo="https://logo.iptveditor.com/skywitness.png" group-title="UK | General",UK | Sky Witness SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8993
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK | ITV2 FHD" tvg-logo="https://i.imgur.com/74ljPJR.png" group-title="UK | General",UK | ITV2 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8585
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK | ITV2 HD" tvg-logo="https://i.imgur.com/74ljPJR.png" group-title="UK | General",UK | ITV2 HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8520
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK | ITV2 SD" tvg-logo="https://i.imgur.com/BFpKu9G.png" group-title="UK | General",UK | ITV2 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8925
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK | ITV3 FHD" tvg-logo="https://i.imgur.com/aB0vpyq.png" group-title="UK | General",UK | ITV3 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8586
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK | ITV3 HD" tvg-logo="https://i.imgur.com/aB0vpyq.png" group-title="UK | General",UK | ITV3 HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8521
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK | ITV3 SD" tvg-logo="https://i.imgur.com/7WWAfrw.png" group-title="UK | General",UK | ITV3 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8926
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK | ITV4 FHD" tvg-logo="https://i.imgur.com/GEJnYzd.png" group-title="UK | General",UK | ITV4 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8587
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK | ITV4 HD" tvg-logo="https://i.imgur.com/GEJnYzd.png" group-title="UK | General",UK | ITV4 HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8522
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK | ITV4 SD" tvg-logo="https://i.imgur.com/xA1IryA.png" group-title="UK | General",UK | ITV4 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8927
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK | ITVBe FHD" tvg-logo="https://i.imgur.com/kUNgAJB.png" group-title="UK | General",UK | ITVBe FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8588
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK | ITVBe HD" tvg-logo="https://i.imgur.com/kUNgAJB.png" group-title="UK | General",UK | ITVBe HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8523
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK | ITVBe SD" tvg-logo="https://i.imgur.com/4vSXAZ4.png" group-title="UK | General",UK | ITVBe SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8929
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="UK | BBC Three FHD" tvg-logo="https://i.imgur.com/55Kr0Qe.png" group-title="UK | General",UK | BBC Three FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8551
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="UK | BBC Four FHD" tvg-logo="https://i.imgur.com/qCAQRGG.png" group-title="UK | General",UK | BBC Four FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8667
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="UK | BBC Four HD" tvg-logo="https://i.imgur.com/qCAQRGG.png" group-title="UK | General",UK | BBC Four HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8752
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="UK | BBC Four SD" tvg-logo="https://i.imgur.com/NYuAvor.png" group-title="UK | General",UK | BBC Four SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8825
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK | More4 FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/4-more-hd-uk.png" group-title="UK | General",UK | More4 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8589
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK | More4 HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/4-more-hd-uk.png" group-title="UK | General",UK | More4 HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8525
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK | More4 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/4-more-uk.png" group-title="UK | General",UK | More4 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8938
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK | 4seven SD" tvg-logo="https://logo.iptveditor.com/4seven.png" group-title="UK | General",UK | 4seven SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8800
+#EXTINF:-1 tvg-id="e4extra.uk" tvg-name="UK | E4 Extra SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/e-4-extra-uk.png" group-title="UK | General",UK | E4 Extra SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8799
+#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="UK | Comedy Central Extra SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/comedy-central-extra-uk.png" group-title="UK | General",UK | Comedy Central Extra SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8874
+#EXTINF:-1 tvg-id="5Action.uk" tvg-name="UK | 5Action SD" tvg-logo="https://logo.iptveditor.com/5action.png" group-title="UK | General",UK | 5Action SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8958
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="UK | 5Select SD" tvg-logo="https://logo.iptveditor.com/5select.png" group-title="UK | General",UK | 5Select SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8801
+#EXTINF:-1 tvg-id="5Star.uk" tvg-name="UK | 5Star SD" tvg-logo="https://logo.iptveditor.com/5star.png" group-title="UK | General",UK | 5Star SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8802
+#EXTINF:-1 tvg-id="5USA.uk" tvg-name="UK | 5USA SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/5-usa-uk.png" group-title="UK | General",UK | 5USA SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8803
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK | Alibi FHD" tvg-logo="https://i.imgur.com/9jw3jqr.png" group-title="UK | General",UK | Alibi FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8563
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK | Alibi HD" tvg-logo="https://i.imgur.com/9jw3jqr.png" group-title="UK | General",UK | Alibi HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8759
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK | Alibi SD" tvg-logo="https://logo.iptveditor.com/alibi.png" group-title="UK | General",UK | Alibi SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8819
+#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="UK | Blaze SD" tvg-logo="https://logo.iptveditor.com/blaze.png" group-title="UK | General",UK | Blaze SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8851
+#EXTINF:-1 tvg-id="CBSRealityUK.uk" tvg-name="UK | CBS Reality SD" tvg-logo="https://logo.iptveditor.com/cbsreality.png" group-title="UK | General",UK | CBS Reality SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8861
+#EXTINF:-1 tvg-id="realityxtra.uk" tvg-name="UK | RealityXtra SD" tvg-logo="https://i.imgur.com/NXNPHkr.png" group-title="UK | General",UK | RealityXtra SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8859
+#EXTINF:-1 tvg-id="challenge.uk" tvg-name="UK | Challenge SD" tvg-logo="https://logo.iptveditor.com/challenge.png" group-title="UK | General",UK | Challenge SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8862
+#EXTINF:-1 tvg-id="DMAXUK.uk" tvg-name="UK | DMAX SD" tvg-logo="https://i.imgur.com/PxIZM5K.png" group-title="UK | General",UK | DMAX SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8883
+#EXTINF:-1 tvg-id="drama.uk" tvg-name="UK | Drama SD" tvg-logo="https://logo.iptveditor.com/drama.png" group-title="UK | General",UK | Drama SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8884
+#EXTINF:-1 tvg-id="EUK.uk" tvg-name="UK | E! FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/e-entertainment-hd-uk.png" group-title="UK | General",UK | E! FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8579
+#EXTINF:-1 tvg-id="EUK.uk" tvg-name="UK | E! HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/e-entertainment-hd-uk.png" group-title="UK | General",UK | E! HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8540
+#EXTINF:-1 tvg-id="EUK.uk" tvg-name="UK | E! SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/e-entertainment-uk.png" group-title="UK | General",UK | E! SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8887
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK | Eden SD" tvg-logo="https://logo.iptveditor.com/eden.png" group-title="UK | General",UK | Eden SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8889
+#EXTINF:-1 tvg-id="FoodNetworkUK.uk" tvg-name="UK | Food Network SD" tvg-logo="https://logo.iptveditor.com/foodnetwork.png" group-title="UK | General",UK | Food Network SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8515
+#EXTINF:-1 tvg-id="Foodxp.uk" tvg-name="UK | Foodxp SD" tvg-logo="https://logo.iptveditor.com/foodxp.png" group-title="UK | General",UK | Foodxp SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8893
+#EXTINF:-1 tvg-id="GreatTV.uk" tvg-name="UK | Great! TV SD" tvg-logo="https://logo.iptveditor.com/greattv.png" group-title="UK | General",UK | Great! TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9049
+#EXTINF:-1 tvg-id="HGTVUK.uk" tvg-name="UK | HGTV SD" tvg-logo="https://logo.iptveditor.com/hgtv.png" group-title="UK | General",UK | HGTV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8741
+#EXTINF:-1 tvg-id="legend.uk" tvg-name="UK | Legend SD" tvg-logo="https://i.imgur.com/sjo1gPF.png" group-title="UK | General",UK | Legend SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8903
+#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="UK | London Live SD" tvg-logo="https://logo.iptveditor.com/londonlive.png" group-title="UK | General",UK | London Live SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8553
+#EXTINF:-1 tvg-id="pick.uk" tvg-name="UK | Pick SD" tvg-logo="https://logo.iptveditor.com/pick.png" group-title="UK | General",UK | Pick SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8960
+#EXTINF:-1 tvg-id="QuestUK.uk" tvg-name="UK | Quest FHD" tvg-logo="https://i.imgur.com/GprOYkN.png" group-title="UK | General",UK | Quest FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8593
+#EXTINF:-1 tvg-id="QuestUK.uk" tvg-name="UK | Quest HD" tvg-logo="https://i.imgur.com/GprOYkN.png" group-title="UK | General",UK | Quest HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8767
+#EXTINF:-1 tvg-id="QuestUK.uk" tvg-name="UK | Quest SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/quest-uk.png" group-title="UK | General",UK | Quest SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8964
+#EXTINF:-1 tvg-id="QuestRedUK.uk" tvg-name="UK | Quest Red SD" tvg-logo="https://logo.iptveditor.com/questred.png" group-title="UK | General",UK | Quest Red SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8965
+#EXTINF:-1 tvg-id="really.uk" tvg-name="UK | Really SD" tvg-logo="https://logo.iptveditor.com/really.png" group-title="UK | General",UK | Really SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8971
+#EXTINF:-1 tvg-id="TalkingPicturesTV.uk" tvg-name="UK | Talking Pictures TV SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/talking-pictures-tv-uk.png" group-title="UK | General",UK | Talking Pictures TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9012
+#EXTINF:-1 tvg-id="thatstvgold.uk" tvg-name="UK | That's TV SD" tvg-logo="https://i.imgur.com/4M0UR4y.png" group-title="UK | General",UK | That's TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8625
+#EXTINF:-1 tvg-id="TLCUK.uk" tvg-name="UK | TLC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/tlc-hd-uk.png" group-title="UK | General",UK | TLC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8617
+#EXTINF:-1 tvg-id="TLCUK.uk" tvg-name="UK | TLC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/tlc-hd-uk.png" group-title="UK | General",UK | TLC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8792
+#EXTINF:-1 tvg-id="TLCUK.uk" tvg-name="UK | TLC SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/tlc-uk.png" group-title="UK | General",UK | TLC SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9017
+#EXTINF:-1 tvg-id="travelxp.uk" tvg-name="UK | Travelxp SD" tvg-logo="https://logo.iptveditor.com/travelxp.png" group-title="UK | General",UK | Travelxp SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9018
+#EXTINF:-1 tvg-id="w.uk" tvg-name="UK | W FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/w-network-hd-uk.png" group-title="UK | General",UK | W FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8620
+#EXTINF:-1 tvg-id="w.uk" tvg-name="UK | W HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/w-network-hd-uk.png" group-title="UK | General",UK | W HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8795
+#EXTINF:-1 tvg-id="w.uk" tvg-name="UK | W SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/w-network-uk.png" group-title="UK | General",UK | W SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9025
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="UK | Yesterday SD" tvg-logo="https://logo.iptveditor.com/yesterday.png" group-title="UK | General",UK | Yesterday SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9027
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-name="IE | RTÉ One FHD" tvg-logo="https://imgur.com/Pk47SBS.png" group-title="IE | Ireland",IE | RTÉ One FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8666
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-name="IE | RTÉ One HD" tvg-logo="https://imgur.com/Pk47SBS.png" group-title="IE | Ireland",IE | RTÉ One HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9073
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-name="IE | RTÉ One SD" tvg-logo="https://imgur.com/YbNvGRm.png" group-title="IE | Ireland",IE | RTÉ One SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9066
+#EXTINF:-1 tvg-id="RTEOnePlus1.ie" tvg-name="IE | RTÉ One +1 SD" tvg-logo="https://imgur.com/1X4Nqho.png" group-title="IE | Ireland",IE | RTÉ One +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8728
+#EXTINF:-1 tvg-id="rtetwo.ie" tvg-name="IE | RTÉ2 FHD" tvg-logo="https://imgur.com/YarkUnP.png" group-title="IE | Ireland",IE | RTÉ2 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8672
+#EXTINF:-1 tvg-id="rtetwo.ie" tvg-name="IE | RTÉ2 HD" tvg-logo="https://imgur.com/YarkUnP.png" group-title="IE | Ireland",IE | RTÉ2 HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9074
+#EXTINF:-1 tvg-id="rtetwo.ie" tvg-name="IE | RTÉ2 SD" tvg-logo="https://imgur.com/q9Sfwk5.png" group-title="IE | Ireland",IE | RTÉ2 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9067
+#EXTINF:-1 tvg-id="rtetwo.ie.plus1" tvg-name="IE | RTÉ2 +1 SD" tvg-logo="https://imgur.com/pixUNtE.png" group-title="IE | Ireland",IE | RTÉ2 +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8689
+#EXTINF:-1 tvg-id="virginmediaone.ie" tvg-name="IE | Virgin Media One FHD" tvg-logo="https://imgur.com/Bhg5StV.png" group-title="IE | Ireland",IE | Virgin Media One FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9069
+#EXTINF:-1 tvg-id="virginmediaone.ie" tvg-name="IE | Virgin Media One HD" tvg-logo="https://imgur.com/Bhg5StV.png" group-title="IE | Ireland",IE | Virgin Media One HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9077
+#EXTINF:-1 tvg-id="virginmediaone.ie" tvg-name="IE | Virgin Media One SD" tvg-logo="https://imgur.com/DmSdulH.png" group-title="IE | Ireland",IE | Virgin Media One SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9024
+#EXTINF:-1 tvg-id="virginmediatwo.ie" tvg-name="IE | Virgin Media Two FHD" tvg-logo="https://imgur.com/iuAmlKr.png" group-title="IE | Ireland",IE | Virgin Media Two FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9070
+#EXTINF:-1 tvg-id="virginmediatwo.ie" tvg-name="IE | Virgin Media Two HD" tvg-logo="https://imgur.com/iuAmlKr.png" group-title="IE | Ireland",IE | Virgin Media Two HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9079
+#EXTINF:-1 tvg-id="virginmediatwo.ie" tvg-name="IE | Virgin Media Two SD" tvg-logo="https://logo.iptveditor.com/virginmediatwo.png" group-title="IE | Ireland",IE | Virgin Media Two SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8623
+#EXTINF:-1 tvg-id="VirginMediaThree.ie" tvg-name="IE | Virgin Media Three SD" tvg-logo="https://imgur.com/UpggacS.png" group-title="IE | Ireland",IE | Virgin Media Three SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9078
+#EXTINF:-1 tvg-id="virginmediafour.ie" tvg-name="IE | Virgin Media Four SD" tvg-logo="https://i.imgur.com/yWWbeAC.png" group-title="IE | Ireland",IE | Virgin Media Four SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8694
+#EXTINF:-1 tvg-id="tg4.ie" tvg-name="IE | TG4 FHD" tvg-logo="https://imgur.com/WoHQLHh.png" group-title="IE | Ireland",IE | TG4 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9068
+#EXTINF:-1 tvg-id="tg4.ie" tvg-name="IE | TG4 HD" tvg-logo="https://imgur.com/WoHQLHh.png" group-title="IE | Ireland",IE | TG4 HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9071
+#EXTINF:-1 tvg-id="tg4.ie" tvg-name="IE | TG4 SD" tvg-logo="https://imgur.com/WoHQLHh.png" group-title="IE | Ireland",IE | TG4 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9076
+#EXTINF:-1 tvg-id="RTENews.ie" tvg-name="IE | RTÉ News SD" tvg-logo="https://imgur.com/0CIbmR2.png" group-title="IE | Ireland",IE | RTÉ News SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9075
+#EXTINF:-1 tvg-id="RTEjr.ie" tvg-name="IE | RTÉjr SD" tvg-logo="https://imgur.com/DWjc0by.png" group-title="IE | Ireland",IE | RTÉjr SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9072
+#EXTINF:-1 tvg-id="AnimalPlanetUK.uk" tvg-name="UK | Animal Planet FHD" tvg-logo="https://logo.iptveditor.com/animalplanethd.png" group-title="UK | Education",UK | Animal Planet FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8739
+#EXTINF:-1 tvg-id="AnimalPlanetUK.uk" tvg-name="UK | Animal Planet SD" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="UK | Education",UK | Animal Planet SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8820
+#EXTINF:-1 tvg-id="CrimePlusInvestigationUK.uk" tvg-name="UK | Crime & Investigation FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/crime-and-investigation-hd-uk.png" group-title="UK | Education",UK | Crime & Investigation FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8576
+#EXTINF:-1 tvg-id="CrimePlusInvestigationUK.uk" tvg-name="UK | Crime & Investigation HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/crime-and-investigation-hd-uk.png" group-title="UK | Education",UK | Crime & Investigation HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8537
+#EXTINF:-1 tvg-id="CrimePlusInvestigationUK.uk" tvg-name="UK | Crime & Investigation SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/crime-and-investigation-uk.png" group-title="UK | Education",UK | Crime & Investigation SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8876
+#EXTINF:-1 tvg-id="DiscoveryChannelUK.uk" tvg-name="UK | Discovery Channel FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/hd/discovery-channel-icon-hd-us.png" group-title="UK | Education",UK | Discovery Channel FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8578
+#EXTINF:-1 tvg-id="DiscoveryChannelUK.uk" tvg-name="UK | Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/hd/discovery-channel-icon-hd-us.png" group-title="UK | Education",UK | Discovery Channel HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8539
+#EXTINF:-1 tvg-id="DiscoveryChannelUK.uk" tvg-name="UK | Discovery Channel SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/discovery-channel-icon-uk.png" group-title="UK | Education",UK | Discovery Channel SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8882
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK | Discovery History SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/discovery-history-uk.png" group-title="UK | Education",UK | Discovery History SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8879
+#EXTINF:-1 tvg-id="DiscoveryScienceUK.uk" tvg-name="UK | Discovery Science SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/discovery-science-icon-uk.png" group-title="UK | Education",UK | Discovery Science SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8880
+#EXTINF:-1 tvg-id="DiscoveryTurboUK.uk" tvg-name="UK | Discovery Turbo SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/discovery-turbo-uk.png" group-title="UK | Education",UK | Discovery Turbo SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8881
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="UK | Investigation Discovery SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/investigation-discovery-uk.png" group-title="UK | Education",UK | Investigation Discovery SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8907
+#EXTINF:-1 tvg-id="NationalGeographicWildUK.uk" tvg-name="UK | Nat Geo Wild FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/hd/national-geographic-wild-hd-us.png" group-title="UK | Education",UK | Nat Geo Wild FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8591
+#EXTINF:-1 tvg-id="NationalGeographicWildUK.uk" tvg-name="UK | Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/hd/national-geographic-wild-hd-us.png" group-title="UK | Education",UK | Nat Geo Wild HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8529
+#EXTINF:-1 tvg-id="NationalGeographicWildUK.uk" tvg-name="UK | Nat Geo Wild SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="UK | Education",UK | Nat Geo Wild SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8946
+#EXTINF:-1 tvg-id="NationalGeographicUK.uk" tvg-name="UK | National Geographic FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/hd/national-geographic-hd-us.png" group-title="UK | Education",UK | National Geographic FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8744
+#EXTINF:-1 tvg-id="NationalGeographicUK.uk" tvg-name="UK | National Geographic HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/national-geographic-hd-uk.png" group-title="UK | Education",UK | National Geographic HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8528
+#EXTINF:-1 tvg-id="NationalGeographicUK.uk" tvg-name="UK | National Geographic SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/national-geographic-uk.png" group-title="UK | Education",UK | National Geographic SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8945
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="UK | PBS America SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/pbs-america-uk.png" group-title="UK | Education",UK | PBS America SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8959
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="UK | Sky Crime FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-crime-hd-uk.png" group-title="UK | Education",UK | Sky Crime FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8608
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="UK | Sky Crime HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-crime-hd-uk.png" group-title="UK | Education",UK | Sky Crime HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8783
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="UK | Sky Crime SD" tvg-logo="https://logo.iptveditor.com/skycrime.png" group-title="UK | Education",UK | Sky Crime SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8988
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK | Sky Documentaries FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-docs-hd-uk.png" group-title="UK | Education",UK | Sky Documentaries FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8557
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK | Sky Documentaries HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-docs-hd-uk.png" group-title="UK | Education",UK | Sky Documentaries HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8558
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK | Sky Documentaries SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/sky-docs-uk.png" group-title="UK | Education",UK | Sky Documentaries SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8559
+#EXTINF:-1 tvg-id="SkyHistory.uk" tvg-name="UK | Sky History FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-history-light-hd-uk.png" group-title="UK | Education",UK | Sky History FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8609
+#EXTINF:-1 tvg-id="SkyHistory.uk" tvg-name="UK | Sky History HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-history-light-hd-uk.png" group-title="UK | Education",UK | Sky History HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8784
+#EXTINF:-1 tvg-id="SkyHistory.uk" tvg-name="UK | Sky History SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/sky-history-light-uk.png" group-title="UK | Education",UK | Sky History SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8989
+#EXTINF:-1 tvg-id="SkyHistory2.uk" tvg-name="UK | Sky History 2 FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-history-2-light-hd-uk.png" group-title="UK | Education",UK | Sky History 2 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8622
+#EXTINF:-1 tvg-id="SkyHistory2.uk" tvg-name="UK | Sky History 2 HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-history-2-light-hd-uk.png" group-title="UK | Education",UK | Sky History 2 HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8518
+#EXTINF:-1 tvg-id="SkyHistory2.uk" tvg-name="UK | Sky History 2 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/sky-history-2-light-uk.png" group-title="UK | Education",UK | Sky History 2 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8899
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK | Sky Nature FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-nature-hd-uk.png" group-title="UK | Education",UK | Sky Nature FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8560
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK | Sky Nature HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-nature-hd-uk.png" group-title="UK | Education",UK | Sky Nature HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8561
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK | Sky Nature SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/sky-nature-uk.png" group-title="UK | Education",UK | Sky Nature SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8562
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="UK | Al Jazeera FHD" tvg-logo="https://i.imgur.com/fwrtT7G.png" group-title="UK | News",UK | Al Jazeera FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8676
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="UK | Al Jazeera HD" tvg-logo="https://i.imgur.com/fwrtT7G.png" group-title="UK | News",UK | Al Jazeera HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8751
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="UK | Al Jazeera SD" tvg-logo="https://logo.iptveditor.com/aljazeera.png" group-title="UK | News",UK | Al Jazeera SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8806
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK | BBC News FHD" tvg-logo="https://i.imgur.com/NsCeHyM.png" group-title="UK | News",UK | BBC News FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8564
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK | BBC News HD" tvg-logo="https://i.imgur.com/NsCeHyM.png" group-title="UK | News",UK | BBC News HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8760
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK | BBC News SD" tvg-logo="https://logo.iptveditor.com/bbcnews.png" group-title="UK | News",UK | BBC News SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8826
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="UK | BBC Parliament SD" tvg-logo="https://i.imgur.com/nsL2GQs.png" group-title="UK | News",UK | BBC Parliament SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8843
+#EXTINF:-1 tvg-id="bloomberg.uk" tvg-name="UK | Bloomberg FHD" tvg-logo="https://i.imgur.com/tvR3QTw.png" group-title="UK | News",UK | Bloomberg FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8568
+#EXTINF:-1 tvg-id="bloomberg.uk" tvg-name="UK | Bloomberg HD" tvg-logo="https://i.imgur.com/tvR3QTw.png" group-title="UK | News",UK | Bloomberg HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8766
+#EXTINF:-1 tvg-id="bloomberg.uk" tvg-name="UK | Bloomberg SD" tvg-logo="https://i.imgur.com/tvR3QTw.png" group-title="UK | News",UK | Bloomberg SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8852
+#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-name="UK | CNBC FHD" tvg-logo="https://i.imgur.com/X6eysn1.png" group-title="UK | News",UK | CNBC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8721
+#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-name="UK | CNBC HD" tvg-logo="https://i.imgur.com/X6eysn1.png" group-title="UK | News",UK | CNBC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8722
+#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-name="UK | CNBC SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/cnbc-us.png" group-title="UK | News",UK | CNBC SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9035
+#EXTINF:-1 tvg-id="cnninternational.uk" tvg-name="UK | CNN FHD" tvg-logo="https://i.imgur.com/sfhi28e.png" group-title="UK | News",UK | CNN FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8740
+#EXTINF:-1 tvg-id="cnninternational.uk" tvg-name="UK | CNN SD" tvg-logo="https://i.imgur.com/pYPZCCO.png" group-title="UK | News",UK | CNN SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8869
+#EXTINF:-1 tvg-id="CourtTVUK.uk" tvg-name="UK | Court TV SD" tvg-logo="https://logo.iptveditor.com/courttv.png" group-title="UK | News",UK | Court TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9037
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="UK | Euronews SD" tvg-logo="https://i.imgur.com/jLS4nmn.png" group-title="UK | News",UK | Euronews SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8809
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="UK | France 24 FHD" tvg-logo="https://i.imgur.com/Oewz6M2.png" group-title="UK | News",UK | France 24 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8668
+#EXTINF:-1 tvg-id="gbnews.uk" tvg-name="UK | GB News FHD" tvg-logo="https://i.imgur.com/cblwH1D.png" group-title="UK | News",UK | GB News FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8544
+#EXTINF:-1 tvg-id="gbnews.uk" tvg-name="UK | GB News HD" tvg-logo="https://i.imgur.com/cblwH1D.png" group-title="UK | News",UK | GB News HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8543
+#EXTINF:-1 tvg-id="gbnews.uk" tvg-name="UK | GB News SD" tvg-logo="https://i.imgur.com/0bydxOd.png" group-title="UK | News",UK | GB News SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8542
+#EXTINF:-1 tvg-id="nbcnewsnow.uk" tvg-name="UK | NBC News Now FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/nbc-news-now-us.png" group-title="UK | News",UK | NBC News Now FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8720
+#EXTINF:-1 tvg-id="nbcnewsnow.uk" tvg-name="UK | NBC News Now HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/nbc-news-now-us.png" group-title="UK | News",UK | NBC News Now HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8719
+#EXTINF:-1 tvg-id="nbcnewsnow.uk" tvg-name="UK | NBC News Now SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/nbc-news-now-us.png" group-title="UK | News",UK | NBC News Now SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8718
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK | Sky News FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-news-hd-uk.png" group-title="UK | News",UK | Sky News FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8610
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK | Sky News HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-news-hd-uk.png" group-title="UK | News",UK | Sky News HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8785
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK | Sky News SD" tvg-logo="https://logo.iptveditor.com/skynews.png" group-title="UK | News",UK | Sky News SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8990
+#EXTINF:-1 tvg-id="talktv.uk" tvg-name="UK | TalkTV FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/talk-tv-uk.png" group-title="UK | News",UK | TalkTV FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9058
+#EXTINF:-1 tvg-id="talktv.uk" tvg-name="UK | TalkTV HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/talk-tv-uk.png" group-title="UK | News",UK | TalkTV HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8735
+#EXTINF:-1 tvg-id="talktv.uk" tvg-name="UK | TalkTV SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/talk-tv-uk.png" group-title="UK | News",UK | TalkTV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8734
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="UK | Sky Cinema Action FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-action-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Action FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8597
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="UK | Sky Cinema Action HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-action-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Action HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8771
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="UK | Sky Cinema Action SD" tvg-logo="https://logo.iptveditor.com/skycinemaaction.png" group-title="UK | Cinema",UK | Sky Cinema Action SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8976
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="UK | Sky Cinema Animation FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-animation-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Animation FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8745
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="UK | Sky Cinema Animation HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-animation-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Animation HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8755
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="UK | Sky Cinema Animation SD" tvg-logo="https://logo.iptveditor.com/skycinemaanimation.png" group-title="UK | Cinema",UK | Sky Cinema Animation SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8814
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK | Sky Cinema Comedy FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-comedy-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Comedy FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8598
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK | Sky Cinema Comedy HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-comedy-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Comedy HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8772
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK | Sky Cinema Comedy SD" tvg-logo="https://logo.iptveditor.com/skycinemacomedy.png" group-title="UK | Cinema",UK | Sky Cinema Comedy SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8977
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK | Sky Cinema Drama FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-drama-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Drama FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8599
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK | Sky Cinema Drama HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-drama-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Drama HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8773
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK | Sky Cinema Drama SD" tvg-logo="https://logo.iptveditor.com/skycinemadrama.png" group-title="UK | Cinema",UK | Sky Cinema Drama SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8978
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK | Sky Cinema Family FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-family-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Family FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8600
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK | Sky Cinema Family HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-family-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Family HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8774
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK | Sky Cinema Family SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/sky-cinema-family-uk.png" group-title="UK | Cinema",UK | Sky Cinema Family SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8979
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK | Sky Cinema Greats FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-greats-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Greats FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8601
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK | Sky Cinema Greats HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-greats-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Greats HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8775
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK | Sky Cinema Greats SD" tvg-logo="https://logo.iptveditor.com/skycinemagreats.png" group-title="UK | Cinema",UK | Sky Cinema Greats SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8980
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK | Sky Cinema Hits FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-hits-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Hits FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8602
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK | Sky Cinema Hits HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-hits-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Hits HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8776
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK | Sky Cinema Hits SD" tvg-logo="https://logo.iptveditor.com/skycinemahits.png" group-title="UK | Cinema",UK | Sky Cinema Hits SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8981
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK | Sky Cinema Premiere FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-premiere-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Premiere FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8604
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK | Sky Cinema Premiere HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-premiere-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Premiere HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8779
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK | Sky Cinema Premiere SD" tvg-logo="https://logo.iptveditor.com/skycinemapremiere.png" group-title="UK | Cinema",UK | Sky Cinema Premiere SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8984
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK | Sky Cinema Sci-Fi Horror FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-sci-fi-and-horror-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Sci-Fi Horror FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8605
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK | Sky Cinema Sci-Fi Horror HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-sci-fi-and-horror-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Sci-Fi Horror HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8780
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK | Sky Cinema Sci-Fi Horror SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png" group-title="UK | Cinema",UK | Sky Cinema Sci-Fi Horror SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8985
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="UK | Sky Cinema Select FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-select-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Select FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8603
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="UK | Sky Cinema Select HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-select-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Select HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8777
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="UK | Sky Cinema Select SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/sky-cinema-select-uk.png" group-title="UK | Cinema",UK | Sky Cinema Select SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8982
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK | Sky Cinema Thriller FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-thriller-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Thriller FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8606
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK | Sky Cinema Thriller HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-thriller-hd-uk.png" group-title="UK | Cinema",UK | Sky Cinema Thriller HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8781
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK | Sky Cinema Thriller SD" tvg-logo="https://logo.iptveditor.com/skycinemathriller.png" group-title="UK | Cinema",UK | Sky Cinema Thriller SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8986
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK | Film4 FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/film-4-hd-uk.png" group-title="UK | Cinema",UK | Film4 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8581
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK | Film4 HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/film-4-hd-uk.png" group-title="UK | Cinema",UK | Film4 HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8514
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK | Film4 SD" tvg-logo="https://logo.iptveditor.com/film4.png" group-title="UK | Cinema",UK | Film4 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8892
+#EXTINF:-1 tvg-id="GreatMoviesAction.uk" tvg-name="UK | Great! Movies Action SD" tvg-logo="https://logo.iptveditor.com/greatmoviesaction.png" group-title="UK | Cinema",UK | Great! Movies Action SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8995
+#EXTINF:-1 tvg-id="GreatMovies.uk" tvg-name="UK | Great! Movies SD" tvg-logo="https://logo.iptveditor.com/greatmovies.png" group-title="UK | Cinema",UK | Great! Movies SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8653
+#EXTINF:-1 tvg-id="great!romance.uk" tvg-name="UK | Great! Romance SD" tvg-logo="https://i.imgur.com/Q8ATlpM.png" group-title="UK | Cinema",UK | Great! Romance SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8655
+#EXTINF:-1 tvg-id="Movies24.uk" tvg-name="UK | Movies 24 SD" tvg-logo="https://logo.iptveditor.com/movies24.png" group-title="UK | Cinema",UK | Movies 24 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8812
+#EXTINF:-1 tvg-id="TCMMovies.uk" tvg-name="UK | TCM Movies FHD" tvg-logo="https://imgur.com/Abby4Yb.png" group-title="UK | Cinema",UK | TCM Movies FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8616
+#EXTINF:-1 tvg-id="TCMMovies.uk" tvg-name="UK | TCM Movies HD" tvg-logo="https://imgur.com/Abby4Yb.png" group-title="UK | Cinema",UK | TCM Movies HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8791
+#EXTINF:-1 tvg-id="TCMMovies.uk" tvg-name="UK | TCM Movies SD" tvg-logo="https://imgur.com/HfLJjTH.png" group-title="UK | Cinema",UK | TCM Movies SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9013
+#EXTINF:-1 tvg-id="4music.uk" tvg-name="UK | 4Music SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/4-music-uk.png" group-title="UK | Music",UK | 4Music SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8853
+#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="UK | Clubland TV SD" tvg-logo="https://i.imgur.com/AjztFs1.png" group-title="UK | Music",UK | Clubland TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8868
+#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="UK | Kerrang! TV SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/kerrang-tv-uk.png" group-title="UK | Music",UK | Kerrang! TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8932
+#EXTINF:-1 tvg-id="kisstv.uk" tvg-name="UK | Kiss TV SD" tvg-logo="https://i.imgur.com/1oaajZN.png" group-title="UK | Music",UK | Kiss TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8934
+#EXTINF:-1 tvg-id="Magic.uk" tvg-name="UK | Magic SD" tvg-logo="https://i.imgur.com/wmnVOac.png" group-title="UK | Music",UK | Magic SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8937
+#EXTINF:-1 tvg-id="mtv80s.uk" tvg-name="UK | MTV 80s SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/mtv-80s-uk.png" group-title="UK | Music",UK | MTV 80s SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8940
+#EXTINF:-1 tvg-id="mtv90s.uk" tvg-name="UK | MTV 90s SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/mtv-90s-uk.png" group-title="UK | Music",UK | MTV 90s SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8941
+#EXTINF:-1 tvg-id="MTVUK.uk" tvg-name="UK | MTV FHD" tvg-logo="https://i.imgur.com/fUtszcK.png" group-title="UK | Music",UK | MTV FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8590
+#EXTINF:-1 tvg-id="MTVUK.uk" tvg-name="UK | MTV HD" tvg-logo="https://i.imgur.com/fUtszcK.png" group-title="UK | Music",UK | MTV HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8526
+#EXTINF:-1 tvg-id="MTVUK.uk" tvg-name="UK | MTV SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/mtv-uk.png" group-title="UK | Music",UK | MTV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8939
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="UK | MTV Hits SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/mtv-hits-uk.png" group-title="UK | Music",UK | MTV Hits SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8942
+#EXTINF:-1 tvg-id="MTVMusicUK.uk" tvg-name="UK | MTV Music SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/mtv-music-uk.png" group-title="UK | Music",UK | MTV Music SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8943
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-name="UK | NOW 70s SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/now-70s-uk.png" group-title="UK | Music",UK | NOW 70s SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8955
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-name="UK | NOW 80s SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/now-80s-uk.png" group-title="UK | Music",UK | NOW 80s SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8956
+#EXTINF:-1 tvg-id="Now90s.uk" tvg-name="UK | NOW Rock SD" tvg-logo="https://i.imgur.com/LEUMGZk.png" group-title="UK | Music",UK | NOW Rock SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8957
+#EXTINF:-1 tvg-id="" tvg-name="UK | That's 60s SD" tvg-logo="https://i.imgur.com/X9mCa5R.png" group-title="UK | Music",UK | That's 60s SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8693
+#EXTINF:-1 tvg-id="TheBoxUK.uk" tvg-name="UK | The Box SD" tvg-logo="https://logo.iptveditor.com/thebox.png" group-title="UK | Music",UK | The Box SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9014
+#EXTINF:-1 tvg-id="tracehits.uk" tvg-name="UK | Trace Hits SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/trace-hits-uk.png" group-title="UK | Music",UK | Trace Hits SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8866
+#EXTINF:-1 tvg-id="TraceVault.uk" tvg-name="UK | Trace Vault SD" tvg-logo="https://i.imgur.com/yFQz0sG.png" group-title="UK | Music",UK | Trace Vault SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8865
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="UK | BabyTV HD" tvg-logo="https://i.imgur.com/wicro2e.png" group-title="UK | Kids",UK | BabyTV HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9062
+#EXTINF:-1 tvg-id="BoomerangUK.uk" tvg-name="UK | Boomerang FHD" tvg-logo="https://i.imgur.com/RQsWaKE.png" group-title="UK | Kids",UK | Boomerang FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8679
+#EXTINF:-1 tvg-id="BoomerangUK.uk" tvg-name="UK | Boomerang HD" tvg-logo="https://i.imgur.com/RQsWaKE.png" group-title="UK | Kids",UK | Boomerang HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8796
+#EXTINF:-1 tvg-id="BoomerangUK.uk" tvg-name="UK | Boomerang SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/boomerang-uk.png" group-title="UK | Kids",UK | Boomerang SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9032
+#EXTINF:-1 tvg-id="CartoonNetworkUK.uk" tvg-name="UK | Cartoon Network FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/cartoon-network-hd-uk.png" group-title="UK | Kids",UK | Cartoon Network FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8569
+#EXTINF:-1 tvg-id="CartoonNetworkUK.uk" tvg-name="UK | Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/cartoon-network-hd-uk.png" group-title="UK | Kids",UK | Cartoon Network HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8531
+#EXTINF:-1 tvg-id="CartoonNetworkUK.uk" tvg-name="UK | Cartoon Network SD" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" group-title="UK | Kids",UK | Cartoon Network SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8855
+#EXTINF:-1 tvg-id="CartoonitoUK.uk" tvg-name="UK | Cartoonito SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/cartoonito-uk.png" group-title="UK | Kids",UK | Cartoonito SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8856
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="UK | CBBC FHD" tvg-logo="https://i.imgur.com/V7lMyja.png" group-title="UK | Kids",UK | CBBC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8570
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="UK | CBBC HD" tvg-logo="https://i.imgur.com/V7lMyja.png" group-title="UK | Kids",UK | CBBC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8532
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="UK | CBBC SD" tvg-logo="https://i.imgur.com/LKnvCOz.png" group-title="UK | Kids",UK | CBBC SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8857
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="UK | CBeebies FHD" tvg-logo="https://i.imgur.com/34y1pPs.png" group-title="UK | Kids",UK | CBeebies FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8571
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="UK | CBeebies HD" tvg-logo="https://i.imgur.com/34y1pPs.png" group-title="UK | Kids",UK | CBeebies HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8533
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="UK | CBeebies SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/bbc-cbeebies-uk.png" group-title="UK | Kids",UK | CBeebies SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8858
+#EXTINF:-1 tvg-id="CITV.uk" tvg-name="UK | CITV SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/c-itv-uk.png" group-title="UK | Kids",UK | CITV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8867
+#EXTINF:-1 tvg-id="NickelodeonUK.uk" tvg-name="UK | Nick FHD" tvg-logo="https://i.imgur.com/SxogdET.png" group-title="UK | Kids",UK | Nick FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8671
+#EXTINF:-1 tvg-id="NickelodeonUK.uk" tvg-name="UK | Nick HD" tvg-logo="https://i.imgur.com/SxogdET.png" group-title="UK | Kids",UK | Nick HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8754
+#EXTINF:-1 tvg-id="NickelodeonUK.uk" tvg-name="UK | Nick SD" tvg-logo="https://i.imgur.com/cIOMT4y.png" group-title="UK | Kids",UK | Nick SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8952
+#EXTINF:-1 tvg-id="nickelodeon.uk.plus1" tvg-name="UK | Nick +1 SD" tvg-logo="https://i.imgur.com/E73qMYq.png" group-title="UK | Kids",UK | Nick +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8633
+#EXTINF:-1 tvg-id="nickjr.uk" tvg-name="UK | Nick Jr. FHD" tvg-logo="https://i.imgur.com/9EhTNZS.png" group-title="UK | Kids",UK | Nick Jr. FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8592
+#EXTINF:-1 tvg-id="nickjr.uk" tvg-name="UK | Nick Jr. HD" tvg-logo="https://i.imgur.com/9EhTNZS.png" group-title="UK | Kids",UK | Nick Jr. HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8530
+#EXTINF:-1 tvg-id="nickjr.uk" tvg-name="UK | Nick Jr. SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/Nick_Jr..png" group-title="UK | Kids",UK | Nick Jr. SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8949
+#EXTINF:-1 tvg-id="nickjr.uk.plus1" tvg-name="UK | Nick Jr. +1 SD" tvg-logo="https://i.imgur.com/5AeIBkd.png" group-title="UK | Kids",UK | Nick Jr. +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8950
+#EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-name="UK | Nick Jr. Too SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/nick-jr-too-uk.png" group-title="UK | Kids",UK | Nick Jr. Too SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9045
+#EXTINF:-1 tvg-id="NicktoonsUK.uk" tvg-name="UK | Nicktoons SD" tvg-logo="https://logo.iptveditor.com/nicktoons.png" group-title="UK | Kids",UK | Nicktoons SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8953
+#EXTINF:-1 tvg-id="PopMax.uk" tvg-name="UK | Pop Max SD" tvg-logo="https://logo.iptveditor.com/popmax.png" group-title="UK | Kids",UK | Pop Max SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8962
+#EXTINF:-1 tvg-id="Pop.uk" tvg-name="UK | Pop SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/pop-uk.png" group-title="UK | Kids",UK | Pop SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8961
+#EXTINF:-1 tvg-id="skykids.uk" tvg-name="UK | Sky Kids FHD" tvg-logo="https://i.imgur.com/ubvR6DF.png" group-title="UK | Kids",UK | Sky Kids FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/765496
+#EXTINF:-1 tvg-id="skykids.uk" tvg-name="UK | Sky Kids HD" tvg-logo="https://i.imgur.com/ubvR6DF.png" group-title="UK | Kids",UK | Sky Kids HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/765495
+#EXTINF:-1 tvg-id="skykids.uk" tvg-name="UK | Sky Kids SD" tvg-logo="https://i.imgur.com/NlUJWF3.png" group-title="UK | Kids",UK | Sky Kids SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/765494
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="UK | Tiny Pop SD" tvg-logo="https://logo.iptveditor.com/tinypop.png" group-title="UK | Kids",UK | Tiny Pop SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9015
+#EXTINF:-1 tvg-id="5StarPlus1.uk" tvg-name="UK | 5Star +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/5-star-plus-uk.png" group-title="UK | +1s",UK | 5Star +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8545
+#EXTINF:-1 tvg-id="5USAPlus1.uk" tvg-name="UK | 5USA +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/5-usa-plus-uk.png" group-title="UK | +1s",UK | 5USA +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8546
+#EXTINF:-1 tvg-id="AlibiPlus1.uk" tvg-name="UK | Alibi +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/alibi-plus-uk.png" group-title="UK | +1s",UK | Alibi +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8547
+#EXTINF:-1 tvg-id="AnimalPlanetUKPlus1.uk" tvg-name="UK | Animal Planet +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/animal-planet-plus-uk.png" group-title="UK | +1s",UK | Animal Planet +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8548
+#EXTINF:-1 tvg-id="CBSRealityUKPlus1.uk" tvg-name="UK | CBS Reality +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/cbs-reality-plus-uk.png" group-title="UK | +1s",UK | CBS Reality +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8658
+#EXTINF:-1 tvg-id="Channel4Plus1.uk" tvg-name="UK | Channel 4 +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/channel-4-plus-uk.png" group-title="UK | +1s",UK | Channel 4 +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9034
+#EXTINF:-1 tvg-id="Channel4Plus1.uk" tvg-name="UK | Channel 4 London +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/channel-4-plus-uk.png" group-title="UK | +1s",UK | Channel 4 London +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8645
+#EXTINF:-1 tvg-id="Channel4Plus1.uk" tvg-name="UK | Channel 4 North +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/channel-4-plus-uk.png" group-title="UK | +1s",UK | Channel 4 North +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8646
+#EXTINF:-1 tvg-id="Channel4Plus1.uk" tvg-name="UK | Channel 4 Scotland +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/channel-4-plus-uk.png" group-title="UK | +1s",UK | Channel 4 Scotland +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8647
+#EXTINF:-1 tvg-id="Channel4Plus1.uk" tvg-name="UK | Channel 4 South & East +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/channel-4-plus-uk.png" group-title="UK | +1s",UK | Channel 4 South & East +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8648
+#EXTINF:-1 tvg-id="Channel5Plus1.uk" tvg-name="UK | Channel 5 +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/channel-5-plus-uk.png" group-title="UK | +1s",UK | Channel 5 +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8638
+#EXTINF:-1 tvg-id="ComedyCentralUKPlus1.uk" tvg-name="UK | Comedy Central +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/comedy-central-plus-icon-uk.png" group-title="UK | +1s",UK | Comedy Central +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9036
+#EXTINF:-1 tvg-id="Davejavu.uk" tvg-name="UK | Dave ja vu SD" tvg-logo="https://logo.iptveditor.com/davejavu.png" group-title="UK | +1s",UK | Dave ja vu SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8878
+#EXTINF:-1 tvg-id="DiscoveryChannelUKPlus1.uk" tvg-name="UK | Discovery Channel +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/discovery-channel-icon-plus-uk.png" group-title="UK | +1s",UK | Discovery Channel +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8660
+#EXTINF:-1 tvg-id="SkyHistoryPlus1.uk" tvg-name="UK | Discovery History +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/discovery-history-plus-uk.png" group-title="UK | +1s",UK | Discovery History +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8687
+#EXTINF:-1 tvg-id="DiscoveryScienceUKPlus1.uk" tvg-name="UK | Discovery Science +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/discovery-science-plus-icon-uk.png" group-title="UK | +1s",UK | Discovery Science +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8686
+#EXTINF:-1 tvg-id="DiscoveryTurboUKPlus1.uk" tvg-name="UK | Discovery Turbo +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/discovery-turbo-plus-uk.png" group-title="UK | +1s",UK | Discovery Turbo +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8659
+#EXTINF:-1 tvg-id="DMAXUKPlus1.uk" tvg-name="UK | DMAX +1 SD" tvg-logo="https://i.imgur.com/p0atwkN.png" group-title="UK | +1s",UK | DMAX +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9038
+#EXTINF:-1 tvg-id="DramaPlus1.uk" tvg-name="UK | Drama +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/drama-plus-uk.png" group-title="UK | +1s",UK | Drama +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8639
+#EXTINF:-1 tvg-id="e4extra.uk" tvg-name="UK | E4 +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/e-4-plus-uk.png" group-title="UK | +1s",UK | E4 +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8662
+#EXTINF:-1 tvg-id="EdenPlus1.uk" tvg-name="UK | Eden +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/eden-plus-uk.png" group-title="UK | +1s",UK | Eden +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8640
+#EXTINF:-1 tvg-id="Film4Plus1.uk" tvg-name="UK | Film4 +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/film-4-plus-uk.png" group-title="UK | +1s",UK | Film4 +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8641
+#EXTINF:-1 tvg-id="FoodNetworkUKPlus1.uk" tvg-name="UK | Food Network +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/food-network-plus-uk.png" group-title="UK | +1s",UK | Food Network +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9041
+#EXTINF:-1 tvg-id="GoldPlus1.uk" tvg-name="UK | Gold +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/gold-plus-uk.png" group-title="UK | +1s",UK | Gold +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8642
+#EXTINF:-1 tvg-id="GreatMoviesPlus1.uk" tvg-name="UK | Great! Movies +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/great-movies-plus-uk.png" group-title="UK | +1s",UK | Great! Movies +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8652
+#EXTINF:-1 tvg-id="GreatMoviesActionPlus1.uk" tvg-name="UK | Great! Movies Action +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/great-movies-action-plus-uk.png" group-title="UK | +1s",UK | Great! Movies Action +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8656
+#EXTINF:-1 tvg-id="" tvg-name="UK | Great! Romance +1 SD" tvg-logo="https://i.imgur.com/lzO4Bc5.png" group-title="UK | +1s",UK | Great! Romance +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8654
+#EXTINF:-1 tvg-id="GreatTVPlus1.uk" tvg-name="UK | Great! TV +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/great-tv-plus-uk.png" group-title="UK | +1s",UK | Great! TV +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8650
+#EXTINF:-1 tvg-id="HorrorXtraPlus1.uk" tvg-name="UK | HorrorXtra +1 SD" tvg-logo="https://i.imgur.com/0WLDJGM.png" group-title="UK | +1s",UK | HorrorXtra +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8643
+#EXTINF:-1 tvg-id="InvestigationDiscoveryUKPlus1.uk" tvg-name="UK | Investigation Discovery +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/investigation-discovery-plus-uk.png" group-title="UK | +1s",UK | Investigation Discovery +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8644
+#EXTINF:-1 tvg-id="" tvg-name="UK | ITV Granada +1 SD" tvg-logo="https://i.imgur.com/yJMk1tN.png" group-title="UK | +1s",UK | ITV Granada +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8629
+#EXTINF:-1 tvg-id="ITV1Plus1.uk" tvg-name="UK | ITV1 +1 SD" tvg-logo="https://i.imgur.com/yJMk1tN.png" group-title="UK | +1s",UK | ITV1 +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8663
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK | ITV2 +1 SD" tvg-logo="https://i.imgur.com/NBoNIpi.png" group-title="UK | +1s",UK | ITV2 +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9043
+#EXTINF:-1 tvg-id="ITV3Plus1.uk" tvg-name="UK | ITV3 +1 SD" tvg-logo="https://i.imgur.com/yW1jwh8.png" group-title="UK | +1s",UK | ITV3 +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8664
+#EXTINF:-1 tvg-id="ITV4Plus1.uk" tvg-name="UK | ITV4 +1 SD" tvg-logo="https://i.imgur.com/XI8iSUb.png" group-title="UK | +1s",UK | ITV4 +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/15519
+#EXTINF:-1 tvg-id="More4Plus1.uk" tvg-name="UK | More4 +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/4-more-plus-uk.png" group-title="UK | +1s",UK | More4 +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8665
+#EXTINF:-1 tvg-id="QuestUKPlus1.uk" tvg-name="UK | Quest +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/quest-plus-uk.png" group-title="UK | +1s",UK | Quest +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8635
+#EXTINF:-1 tvg-id="QuestRedUKPlus1.uk" tvg-name="UK | Quest Red +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/quest-red-plus-uk.png" group-title="UK | +1s",UK | Quest Red +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8634
+#EXTINF:-1 tvg-id="TCMMoviesPlus1.uk" tvg-name="UK | TCM Movies +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/tcm-movies-plus-uk.png" group-title="UK | +1s",UK | TCM Movies +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8549
+#EXTINF:-1 tvg-id="TLCUKPlus1.uk" tvg-name="UK | TLC +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/tlc-plus-uk.png" group-title="UK | +1s",UK | TLC +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8631
+#EXTINF:-1 tvg-id="YesterdayPlus1.uk" tvg-name="UK | Yesterday +1 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/yesterday-plus-uk.png" group-title="UK | +1s",UK | Yesterday +1 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8661
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-name="UK | BBC Alba SD" tvg-logo="https://logo.iptveditor.com/bbcalba.png" group-title="UK | Regional",UK | BBC Alba SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8823
+#EXTINF:-1 tvg-id="BBCOneChannelIslands.uk" tvg-name="UK | BBC One Channel Islands SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/bbc-one-uk.png" group-title="UK | Regional",UK | BBC One Channel Islands SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8827
+#EXTINF:-1 tvg-id="BBCOneEastMidlands.uk" tvg-name="UK | BBC One East Midlands SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/bbc-one-uk.png" group-title="UK | Regional",UK | BBC One East Midlands SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8829
+#EXTINF:-1 tvg-id="BBCOneEastMidlands.uk" tvg-name="UK | BBC One East SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/bbc-one-uk.png" group-title="UK | Regional",UK | BBC One East SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8828
+#EXTINF:-1 tvg-id="BBCOneWest.uk" tvg-name="UK | BBC One East West SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/bbc-one-uk.png" group-title="UK | Regional",UK | BBC One East West SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8830
+#EXTINF:-1 tvg-id="bbconeeyorks&lincs.uk" tvg-name="UK | BBC One East Yorkshire & Lincolnshire SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/bbc-one-uk.png" group-title="UK | Regional",UK | BBC One East Yorkshire & Lincolnshire SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8831
+#EXTINF:-1 tvg-id="BBCOneLondon.uk" tvg-name="UK | BBC One London SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/bbc-one-uk.png" group-title="UK | Regional",UK | BBC One London SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8832
+#EXTINF:-1 tvg-id="BBCOneNorthEastCumbria.uk" tvg-name="UK | BBC One North East & Cumbria SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/bbc-one-uk.png" group-title="UK | Regional",UK | BBC One North East & Cumbria SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8833
+#EXTINF:-1 tvg-id="BBCOneNorthWest.uk" tvg-name="UK | BBC One North West SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/bbc-one-uk.png" group-title="UK | Regional",UK | BBC One North West SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8834
+#EXTINF:-1 tvg-id="BBCOneNorthernIreland.uk" tvg-name="UK | BBC One Northern Ireland FHD" tvg-logo="https://i.imgur.com/JSqBR48.png" group-title="UK | Regional",UK | BBC One Northern Ireland FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8677
+#EXTINF:-1 tvg-id="BBCOneOxfordshire.uk" tvg-name="UK | BBC One Oxford SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/bbc-one-uk.png" group-title="UK | Regional",UK | BBC One Oxford SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8835
+#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-name="UK | BBC One Scotland FHD" tvg-logo="https://i.imgur.com/2qwuPBs.png" group-title="UK | Regional",UK | BBC One Scotland FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8621
+#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-name="UK | BBC One Scotland HD" tvg-logo="https://i.imgur.com/2qwuPBs.png" group-title="UK | Regional",UK | BBC One Scotland HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8753
+#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-name="UK | BBC One Scotland SD" tvg-logo="https://logo.iptveditor.com/bbconescotland.png" group-title="UK | Regional",UK | BBC One Scotland SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8836
+#EXTINF:-1 tvg-id="BBCOneSouthEast.uk" tvg-name="UK | BBC One South East SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/bbc-one-uk.png" group-title="UK | Regional",UK | BBC One South East SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8838
+#EXTINF:-1 tvg-id="BBCOneSouth.uk" tvg-name="UK | BBC One South SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/bbc-one-uk.png" group-title="UK | Regional",UK | BBC One South SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8837
+#EXTINF:-1 tvg-id="BBCOneSouthWest.uk" tvg-name="UK | BBC One South West SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/bbc-one-uk.png" group-title="UK | Regional",UK | BBC One South West SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8839
+#EXTINF:-1 tvg-id="BBCOneWales.uk" tvg-name="UK | BBC One Wales FHD" tvg-logo="https://i.imgur.com/wnhZPba.png" group-title="UK | Regional",UK | BBC One Wales FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8678
+#EXTINF:-1 tvg-id="BBCOneWestMidlands.uk" tvg-name="UK | BBC One West Midlands SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/bbc-one-uk.png" group-title="UK | Regional",UK | BBC One West Midlands SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8841
+#EXTINF:-1 tvg-id="BBCOneWest.uk" tvg-name="UK | BBC One West SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/bbc-one-uk.png" group-title="UK | Regional",UK | BBC One West SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8840
+#EXTINF:-1 tvg-id="BBCOneYorkshire.uk" tvg-name="UK | BBC One Yorkshire & North Midlands FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/bbc-one-uk.png" group-title="UK | Regional",UK | BBC One Yorkshire & North Midlands FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8842
+#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="UK | BBC Scotland FHD" tvg-logo="https://i.imgur.com/pwzeyjv.png" group-title="UK | Regional",UK | BBC Scotland FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8565
+#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="UK | BBC Scotland HD" tvg-logo="https://i.imgur.com/pwzeyjv.png" group-title="UK | Regional",UK | BBC Scotland HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8761
+#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="UK | BBC Scotland SD" tvg-logo="https://logo.iptveditor.com/bbcscotland.png" group-title="UK | Regional",UK | BBC Scotland SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8845
+#EXTINF:-1 tvg-id="BBCTwoWales.uk" tvg-name="UK | BBC Two Wales FHD" tvg-logo="https://i.imgur.com/k0VzyI1.png" group-title="UK | Regional",UK | BBC Two Wales FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8763
+#EXTINF:-1 tvg-id="itvanglia.uk" tvg-name="UK | ITV Anglia East FHD" tvg-logo="https://i.imgur.com/NUodOpI.png" group-title="UK | Regional",UK | ITV Anglia East FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8912
+#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-name="UK | ITV Border Scotland SD" tvg-logo="https://i.imgur.com/UKiWuNz.png" group-title="UK | Regional",UK | ITV Border Scotland SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8913
+#EXTINF:-1 tvg-id="" tvg-name="UK | ITV Central East SD" tvg-logo="https://i.imgur.com/UKiWuNz.png" group-title="UK | Regional",UK | ITV Central East SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8914
+#EXTINF:-1 tvg-id="" tvg-name="UK | ITV Central West SD" tvg-logo="https://i.imgur.com/UKiWuNz.png" group-title="UK | Regional",UK | ITV Central West SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8915
+#EXTINF:-1 tvg-id="" tvg-name="UK | ITV Channel Islands SD" tvg-logo="https://i.imgur.com/UKiWuNz.png" group-title="UK | Regional",UK | ITV Channel Islands SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8550
+#EXTINF:-1 tvg-id="" tvg-name="UK | ITV Granada SD" tvg-logo="https://i.imgur.com/UKiWuNz.png" group-title="UK | Regional",UK | ITV Granada SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8916
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK | ITV London FHD" tvg-logo="https://i.imgur.com/NUodOpI.png" group-title="UK | Regional",UK | ITV London FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8669
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK | ITV London SD" tvg-logo="https://i.imgur.com/UKiWuNz.png" group-title="UK | Regional",UK | ITV London SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8917
+#EXTINF:-1 tvg-id="" tvg-name="UK | ITV Meridian East SD" tvg-logo="https://i.imgur.com/UKiWuNz.png" group-title="UK | Regional",UK | ITV Meridian East SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8918
+#EXTINF:-1 tvg-id="itvmeridiannorth.uk" tvg-name="UK | ITV Meridian North FHD" tvg-logo="https://i.imgur.com/NUodOpI.png" group-title="UK | Regional",UK | ITV Meridian North FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8630
+#EXTINF:-1 tvg-id="" tvg-name="UK | ITV Meridian South Coast SD" tvg-logo="https://i.imgur.com/UKiWuNz.png" group-title="UK | Regional",UK | ITV Meridian South Coast SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8919
+#EXTINF:-1 tvg-id="" tvg-name="UK | ITV Meridian South FHD" tvg-logo="https://i.imgur.com/NUodOpI.png" group-title="UK | Regional",UK | ITV Meridian South FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8670
+#EXTINF:-1 tvg-id="itvtynetees.uk" tvg-name="UK | ITV Tyne Tees FHD" tvg-logo="https://i.imgur.com/NUodOpI.png" group-title="UK | Regional",UK | ITV Tyne Tees FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8681
+#EXTINF:-1 tvg-id="ITVWales.uk" tvg-name="UK | ITV Wales FHD" tvg-logo="https://i.imgur.com/NUodOpI.png" group-title="UK | Regional",UK | ITV Wales FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8682
+#EXTINF:-1 tvg-id="ITVWales.uk" tvg-name="UK | ITV Wales SD" tvg-logo="https://i.imgur.com/UKiWuNz.png" group-title="UK | Regional",UK | ITV Wales SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8811
+#EXTINF:-1 tvg-id="" tvg-name="UK | ITV West Country West FHD" tvg-logo="https://i.imgur.com/NUodOpI.png" group-title="UK | Regional",UK | ITV West Country West FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8920
+#EXTINF:-1 tvg-id="" tvg-name="UK | ITV Westcountry South West FHD" tvg-logo="https://i.imgur.com/NUodOpI.png" group-title="UK | Regional",UK | ITV Westcountry South West FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8921
+#EXTINF:-1 tvg-id="" tvg-name="UK | ITV Yorkshire East FHD" tvg-logo="https://i.imgur.com/NUodOpI.png" group-title="UK | Regional",UK | ITV Yorkshire East FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8742
+#EXTINF:-1 tvg-id="BBCOneYorkshire.uk" tvg-name="UK | ITV Yorkshire East HD" tvg-logo="https://i.imgur.com/NUodOpI.png" group-title="UK | Regional",UK | ITV Yorkshire East HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8797
+#EXTINF:-1 tvg-id="" tvg-name="UK | ITV Yorkshire West FHD" tvg-logo="https://i.imgur.com/NUodOpI.png" group-title="UK | Regional",UK | ITV Yorkshire West FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8922
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="UK | S4C FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/s4c-hd-uk.png" group-title="UK | Regional",UK | S4C FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8673
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="UK | S4C HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/s4c-hd-uk.png" group-title="UK | Regional",UK | S4C HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8768
+#EXTINF:-1 tvg-id="" tvg-name="UK | STV East SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/stv-uk.png" group-title="UK | Regional",UK | STV East SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9004
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK | STV FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/stv-hd-uk.png" group-title="UK | Regional",UK | STV FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8748
+#EXTINF:-1 tvg-id="" tvg-name="UK | STV North SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/stv-uk.png" group-title="UK | Regional",UK | STV North SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9006
+#EXTINF:-1 tvg-id="" tvg-name="UK | STV Tayside SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/stv-uk.png" group-title="UK | Regional",UK | STV Tayside SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9007
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK | STV West FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/stv-hd-uk.png" group-title="UK | Regional",UK | STV West FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8674
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK | STV West HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/stv-hd-uk.png" group-title="UK | Regional",UK | STV West HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8757
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK | STV West SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/stv-uk.png" group-title="UK | Regional",UK | STV West SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9009
+#EXTINF:-1 tvg-id="UTV.uk" tvg-name="UK | UTV FHD" tvg-logo="https://i.imgur.com/t02fyKN.png" group-title="UK | Regional",UK | UTV FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8749
+#EXTINF:-1 tvg-id="UTV.uk" tvg-name="UK | UTV HD" tvg-logo="https://i.imgur.com/t02fyKN.png" group-title="UK | Regional",UK | UTV HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8798
+#EXTINF:-1 tvg-id="UTV.uk" tvg-name="UK | UTV SD" tvg-logo="https://logo.iptveditor.com/utv.png" group-title="UK | Regional",UK | UTV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9022
+#EXTINF:-1 tvg-id="bbcredbutton1.uk" tvg-name="UK | BBC Red Button 1" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 1
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8844
+#EXTINF:-1 tvg-id="bbcredbutton2.uk" tvg-name="UK | BBC Red Button 2" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 2
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8395
+#EXTINF:-1 tvg-id="bbcredbutton2.uk" tvg-name="UK | BBC Red Button 2" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 2
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8394
+#EXTINF:-1 tvg-id="bbcredbutton3.uk" tvg-name="UK | BBC Red Button 3" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 3
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8396
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 4" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 4
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8397
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 5" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 5
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8398
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 6" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 6
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8399
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 7" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 7
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8400
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 8" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 8
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8401
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 9" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 9
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8402
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 10" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 10
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8403
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 11" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 11
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8404
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 12" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 12
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8405
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 13" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 13
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8406
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 14" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 14
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8407
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 15" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 15
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8408
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 16" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 16
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8409
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 17" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 17
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8410
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 18" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 18
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8411
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 19" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 19
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8412
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 20" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 20
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8413
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 21" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 21
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8414
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 22" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 22
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8415
+#EXTINF:-1 tvg-id="0" tvg-name="UK | BBC Red Button 23" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 23
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8416
+#EXTINF:-1 tvg-id="bbcredbutton2.uk" tvg-name="UK | BBC Red Button 24" tvg-logo="https://i.imgur.com/lzVo1F0.png" group-title="UK | Regional",UK | BBC Red Button 24
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8417
+#EXTINF:-1 tvg-id="0" tvg-name="UK | 92 News SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/92-news-uk-uk.png" group-title="UK | Other",UK | 92 News SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8804
+#EXTINF:-1 tvg-id="0" tvg-name="UK | A1TV UK SD" tvg-logo="https://i.imgur.com/c2XVhfh.png" group-title="UK | Other",UK | A1TV UK SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9031
+#EXTINF:-1 tvg-id="AajTak.in" tvg-name="UK | Aaj Tak SD" tvg-logo="https://logo.iptveditor.com/aajtak.png" group-title="UK | Other",UK | Aaj Tak SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8817
+#EXTINF:-1 tvg-id="0" tvg-name="UK | Aastha TV SD" tvg-logo="https://logo.iptveditor.com/aastha.png" group-title="UK | Other",UK | Aastha TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8805
+#EXTINF:-1 tvg-id="AhlebaitTV.uk" tvg-name="UK | Ahlebait TV SD" tvg-logo="https://i.imgur.com/HFV05tr.png" group-title="UK | Other",UK | Ahlebait TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8818
+#EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-name="UK | Arirang TV FHD" tvg-logo="https://logo.iptveditor.com/arirangtv.png" group-title="UK | Other",UK | Arirang TV FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8690
+#EXTINF:-1 tvg-id="ariseplay.uk" tvg-name="UK | Arise News SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/arise-news-uk.png" group-title="UK | Other",UK | Arise News SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8935
+#EXTINF:-1 tvg-id="ARYDigitalUK.uk" tvg-name="UK | Ary Digital SD" tvg-logo="https://logo.iptveditor.com/arydigital.png" group-title="UK | Other",UK | Ary Digital SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8821
+#EXTINF:-1 tvg-id="ATNBanglaUK.uk" tvg-name="UK | ATN Bangla UK SD" tvg-logo="https://i.imgur.com/chRiVYR.png" group-title="UK | Other",UK | ATN Bangla UK SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8822
+#EXTINF:-1 tvg-id="" tvg-name="UK | Ayozat TV SD" tvg-logo="https://i.imgur.com/CQdicXr.png" group-title="UK | Other",UK | Ayozat TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9047
+#EXTINF:-1 tvg-id="B4UMoviesUK.uk" tvg-name="UK | B4U Movies SD" tvg-logo="https://logo.iptveditor.com/b4umovies.png" group-title="UK | Other",UK | B4U Movies SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9029
+#EXTINF:-1 tvg-id="B4UMusicUK.uk" tvg-name="UK | B4U Music SD" tvg-logo="https://logo.iptveditor.com/b4umusic.png" group-title="UK | Other",UK | B4U Music SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9030
+#EXTINF:-1 tvg-id="BestDirect.uk" tvg-name="UK | Best Direct SD" tvg-logo="https://logo.iptveditor.com/bestdirect.png" group-title="UK | Other",UK | Best Direct SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8850
+#EXTINF:-1 tvg-id="BritAsiaTV.uk" tvg-name="UK | Brit Asia TV SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/brit-asia-tv-uk.png" group-title="UK | Other",UK | Brit Asia TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8854
+#EXTINF:-1 tvg-id="BritishMuslimTV.uk" tvg-name="UK | British Muslim TV SD" tvg-logo="https://logo.iptveditor.com/britishmuslim.png" group-title="UK | Other",UK | British Muslim TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8807
+#EXTINF:-1 tvg-id="chstv.uk" tvg-name="UK | Channel S SD" tvg-logo="https://logo.iptveditor.com/chstv.png" group-title="UK | Other",UK | Channel S SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8701
+#EXTINF:-1 tvg-id="colorscineplex.uk" tvg-name="UK | Colors Cineplex SD" tvg-logo="https://logo.iptveditor.com/colorscineplex.png" group-title="UK | Other",UK | Colors Cineplex SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8871
+#EXTINF:-1 tvg-id="colorsrishtey.uk" tvg-name="UK | Colors Rishtey SD" tvg-logo="https://logo.iptveditor.com/colorsrishtey.png" group-title="UK | Other",UK | Colors Rishtey SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8872
+#EXTINF:-1 tvg-id="colors.uk" tvg-name="UK | Colors TV FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/colors-hd-uk.png" group-title="UK | Other",UK | Colors TV FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8574
+#EXTINF:-1 tvg-id="0" tvg-name="UK | Colors TV HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/colors-hd-uk.png" group-title="UK | Other",UK | Colors TV HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9052
+#EXTINF:-1 tvg-id="colors.uk" tvg-name="UK | Colors TV SD" tvg-logo="https://logo.iptveditor.com/colors.png" group-title="UK | Other",UK | Colors TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8870
+#EXTINF:-1 tvg-id="CreateandCraft.uk" tvg-name="UK | Create and Craft FHD" tvg-logo="https://i.imgur.com/kVpUQut.png" group-title="UK | Other",UK | Create and Craft FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8737
+#EXTINF:-1 tvg-id="CreateandCraft.uk" tvg-name="UK | Create and Craft HD" tvg-logo="https://i.imgur.com/kVpUQut.png" group-title="UK | Other",UK | Create and Craft HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8736
+#EXTINF:-1 tvg-id="CreateandCraft.uk" tvg-name="UK | Create and Craft SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/create-and-craft-uk.png" group-title="UK | Other",UK | Create and Craft SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8875
+#EXTINF:-1 tvg-id="daystar.uk" tvg-name="UK | Daystar FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/hd/daystar-hd-us.png" group-title="UK | Other",UK | Daystar FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8709
+#EXTINF:-1 tvg-id="daystar.uk" tvg-name="UK | Daystar SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/daystar-us.png" group-title="UK | Other",UK | Daystar SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8707
+#EXTINF:-1 tvg-id="daystar.uk" tvg-name="UK | Daystar HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/hd/daystar-hd-us.png" group-title="UK | Other",UK | Daystar HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8708
+#EXTINF:-1 tvg-id="DeenTV.uk" tvg-name="UK | Deen TV SD" tvg-logo="https://i.imgur.com/1wLJQUs.png" group-title="UK | Other",UK | Deen TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9053
+#EXTINF:-1 tvg-id="dunamistv.uk" tvg-name="UK | Dunamis TV SD" tvg-logo="https://logo.iptveditor.com/dunamistv.png" group-title="UK | Other",UK | Dunamis TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8885
+#EXTINF:-1 tvg-id="DunyaNewsUK.uk" tvg-name="UK | Dunya News SD" tvg-logo="https://i.imgur.com/XNxuONs.png" group-title="UK | Other",UK | Dunya News SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8886
+#EXTINF:-1 tvg-id="EmanChannel.uk" tvg-name="UK | Eman Channel SD" tvg-logo="https://i.imgur.com/2rP5vNc.png" group-title="UK | Other",UK | Eman Channel SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8890
+#EXTINF:-1 tvg-id="FaithWorldTV.uk" tvg-name="UK | Faith World TV SD" tvg-logo="https://logo.iptveditor.com/faithworldtv.png" group-title="UK | Other",UK | Faith World TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8891
+#EXTINF:-1 tvg-id="GeoUK.uk" tvg-name="UK | Geo News SD" tvg-logo="https://i.imgur.com/gzG70Ql.png" group-title="UK | Other",UK | Geo News SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8810
+#EXTINF:-1 tvg-id="GeoUK.uk" tvg-name="UK | Geo TV SD" tvg-logo="https://logo.iptveditor.com/geotv.png" group-title="UK | Other",UK | Geo TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8895
+#EXTINF:-1 tvg-id="GodTV.uk" tvg-name="UK | GOD TV SD" tvg-logo="https://i.imgur.com/3kjn6bk.png" group-title="UK | Other",UK | GOD TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8896
+#EXTINF:-1 tvg-id="GoodNewsTV.uk" tvg-name="UK | Good News TV SD" tvg-logo="https://logo.iptveditor.com/goodnewstv.png" group-title="UK | Other",UK | Good News TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8898
+#EXTINF:-1 tvg-id="" tvg-name="UK | Hi-Impact TV SD" tvg-logo="https://logo.iptveditor.com/hiimpacttv.png" group-title="UK | Other",UK | Hi-Impact TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9054
+#EXTINF:-1 tvg-id="HidayatTV.uk" tvg-name="UK | Hidayat TV SD" tvg-logo="https://i.imgur.com/82JLN6v.png" group-title="UK | Other",UK | Hidayat TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8900
+#EXTINF:-1 tvg-id="HighStreetTV2.uk" tvg-name="UK | High Street TV 2 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/high-street-tv-uk.png" group-title="UK | Other",UK | High Street TV 2 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8901
+#EXTINF:-1 tvg-id="HighStreetTV4.uk" tvg-name="UK | High Street TV 4 SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/high-street-tv-uk.png" group-title="UK | Other",UK | High Street TV 4 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8902
+#EXTINF:-1 tvg-id="HumEurope.pk" tvg-name="UK | Hum Europe SD" tvg-logo="https://i.imgur.com/U8ECVZD.png" group-title="UK | Other",UK | Hum Europe SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8906
+#EXTINF:-1 tvg-id="HumMasalaUK.uk" tvg-name="UK | Hum Masala SD" tvg-logo="https://logo.iptveditor.com/hummasala.png" group-title="UK | Other",UK | Hum Masala SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8905
+#EXTINF:-1 tvg-id="IdealExtra.uk" tvg-name="UK | Ideal Extra SD" tvg-logo="https://i.imgur.com/SHsbAgE.png" group-title="UK | Other",UK | Ideal Extra SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8908
+#EXTINF:-1 tvg-id="IdealWorldTV.uk" tvg-name="UK | Ideal World FHD" tvg-logo="https://i.imgur.com/0wEe5QO.png" group-title="UK | Other",UK | Ideal World FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8680
+#EXTINF:-1 tvg-id="IdealWorldTV.uk" tvg-name="UK | Ideal World HD" tvg-logo="https://i.imgur.com/0wEe5QO.png" group-title="UK | Other",UK | Ideal World HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8711
+#EXTINF:-1 tvg-id="IdealWorldTV.uk" tvg-name="UK | Ideal World SD" tvg-logo="https://i.imgur.com/0wEe5QO.png" group-title="UK | Other",UK | Ideal World SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8710
+#EXTINF:-1 tvg-id="IonTV.uk" tvg-name="UK | iON TV SD" tvg-logo="https://i.imgur.com/GmtZvXT.png" group-title="UK | Other",UK | iON TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8909
+#EXTINF:-1 tvg-id="IqraBangla.uk" tvg-name="UK | IQRA Bangla SD" tvg-logo="https://i.imgur.com/jvXLV8A.png" group-title="UK | Other",UK | IQRA Bangla SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8700
+#EXTINF:-1 tvg-id="IranInternational.uk" tvg-name="UK | Iran International FHD" tvg-logo="https://logo.iptveditor.com/iranint'l.png" group-title="UK | Other",UK | Iran International FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8713
+#EXTINF:-1 tvg-id="IranInternational.uk" tvg-name="UK | Iran International HD" tvg-logo="https://logo.iptveditor.com/iranint'l.png" group-title="UK | Other",UK | Iran International HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8714
+#EXTINF:-1 tvg-id="" tvg-name="UK | Iran International SD" tvg-logo="https://i.imgur.com/fOO9QO9.png" group-title="UK | Other",UK | Iran International SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8712
+#EXTINF:-1 tvg-id="IslamChannel.uk" tvg-name="UK | Islam Channel SD" tvg-logo="https://logo.iptveditor.com/islamchannel.png" group-title="UK | Other",UK | Islam Channel SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8910
+#EXTINF:-1 tvg-id="IslamTV.uk" tvg-name="UK | Islam TV SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/islam-tv-uk.png" group-title="UK | Other",UK | Islam TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8911
+#EXTINF:-1 tvg-id="JMLDirectTV.uk" tvg-name="UK | JML Direct TV SD" tvg-logo="https://i.imgur.com/ZJS61jZ.png" group-title="UK | Other",UK | JML Direct TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8930
+#EXTINF:-1 tvg-id="KanshiTV.uk" tvg-name="UK | Kanshi TV SD" tvg-logo="https://i.imgur.com/hIv7xje.png" group-title="UK | Other",UK | Kanshi TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8931
+#EXTINF:-1 tvg-id="KICCTV.uk" tvg-name="UK | KICCTV SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/kicc-tv-uk.png" group-title="UK | Other",UK | KICCTV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8933
+#EXTINF:-1 tvg-id="0" tvg-name="UK | KTV SD" tvg-logo="https://i.imgur.com/0VSdB3x.png" group-title="UK | Other",UK | KTV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9044
+#EXTINF:-1 tvg-id="LoveworldTV.uk" tvg-name="UK | LoveWorld FHD" tvg-logo="https://i.imgur.com/zgerjrK.png" group-title="UK | Other",UK | LoveWorld FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8717
+#EXTINF:-1 tvg-id="LoveworldTV.uk" tvg-name="UK | LoveWorld HD" tvg-logo="https://i.imgur.com/zgerjrK.png" group-title="UK | Other",UK | LoveWorld HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8716
+#EXTINF:-1 tvg-id="LoveworldTV.uk" tvg-name="UK | LoveWorld SD" tvg-logo="https://logo.iptveditor.com/loveworld.png" group-title="UK | Other",UK | LoveWorld SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8715
+#EXTINF:-1 tvg-id="madanichnl.uk" tvg-name="UK | Madani Channel English SD" tvg-logo="https://i.imgur.com/SXpavBm.png" group-title="UK | Other",UK | Madani Channel English SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8936
+#EXTINF:-1 tvg-id="MTA1World.uk" tvg-name="UK | MTA1 World SD" tvg-logo="https://i.imgur.com/KWVbBrD.png" group-title="UK | Other",UK | MTA1 World SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8726
+#EXTINF:-1 tvg-id="" tvg-name="UK | NDTV 24x7 SD" tvg-logo="https://logo.iptveditor.com/ndtv24x7.png" group-title="UK | Other",UK | NDTV 24x7 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8947
+#EXTINF:-1 tvg-id="newmedia.uk" tvg-name="UK | New Media FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/new-media-uk.png" group-title="UK | Other",UK | New Media FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8704
+#EXTINF:-1 tvg-id="newmedia.uk" tvg-name="UK | New Media HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/new-media-uk.png" group-title="UK | Other",UK | New Media HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8703
+#EXTINF:-1 tvg-id="newmedia.uk" tvg-name="UK | New Media SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/new-media-uk.png" group-title="UK | Other",UK | New Media SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8702
+#EXTINF:-1 tvg-id="newvisiontv.uk" tvg-name="UK | New Vision TV SD" tvg-logo="https://logo.iptveditor.com/newvisiontv.png" group-title="UK | Other",UK | New Vision TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8948
+#EXTINF:-1 tvg-id="NoorTV.uk" tvg-name="UK | Noor TV SD" tvg-logo="https://i.imgur.com/J6Hwejr.png" group-title="UK | Other",UK | Noor TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8954
+#EXTINF:-1 tvg-id="0" tvg-name="UK | NTV SD" tvg-logo="https://i.imgur.com/pVv1BFO.png" group-title="UK | Other",UK | NTV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8725
+#EXTINF:-1 tvg-id="pcnechinese.uk" tvg-name="UK | PCNE Chinese FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/hong-kong/phoenix-chinese-channel-hk.png" group-title="UK | Other",UK | PCNE Chinese FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8692
+#EXTINF:-1 tvg-id="pcnechinese.uk" tvg-name="UK | PCNE Chinese HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/hong-kong/phoenix-chinese-channel-hk.png" group-title="UK | Other",UK | PCNE Chinese HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8691
+#EXTINF:-1 tvg-id="0" tvg-name="UK | PCNE Chinese SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/hong-kong/phoenix-chinese-channel-hk.png" group-title="UK | Other",UK | PCNE Chinese SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9055
+#EXTINF:-1 tvg-id="0" tvg-name="UK | PTC Punjabi SD" tvg-logo="https://logo.iptveditor.com/ptcpunjabi.png" group-title="UK | Other",UK | PTC Punjabi SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9046
+#EXTINF:-1 tvg-id="MTVGlobal.uk" tvg-name="UK | PTV Global SD" tvg-logo="https://i.imgur.com/M4f4CWm.png" group-title="UK | Other",UK | PTV Global SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8963
+#EXTINF:-1 tvg-id="QVCBeautyUK.uk" tvg-name="UK | QVC Beauty SD" tvg-logo="https://logo.iptveditor.com/qvcbeauty.png" group-title="UK | Other",UK | QVC Beauty SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8967
+#EXTINF:-1 tvg-id="QVCExtraUK.uk" tvg-name="UK | QVC Extra SD" tvg-logo="https://logo.iptveditor.com/qvcextra.png" group-title="UK | Other",UK | QVC Extra SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8968
+#EXTINF:-1 tvg-id="QVCUK.uk" tvg-name="UK | QVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/qvc-hd-uk.png" group-title="UK | Other",UK | QVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8966
+#EXTINF:-1 tvg-id="QVCStyleUK.uk" tvg-name="UK | QVC Style SD" tvg-logo="https://logo.iptveditor.com/qvcstyle.png" group-title="UK | Other",UK | QVC Style SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8969
+#EXTINF:-1 tvg-id="RevelationTV.uk" tvg-name="UK | Revelation TV SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/revelation-tv-uk.png" group-title="UK | Other",UK | Revelation TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8627
+#EXTINF:-1 tvg-id="RokUK.uk" tvg-name="UK | ROK SD" tvg-logo="https://logo.iptveditor.com/rok.png" group-title="UK | Other",UK | ROK SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8972
+#EXTINF:-1 tvg-id="SangatTV.uk" tvg-name="UK | Sangat TV SD" tvg-logo="https://logo.iptveditor.com/sangat.png" group-title="UK | Other",UK | Sangat TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8973
+#EXTINF:-1 tvg-id="" tvg-name="UK | Sanskar TV SD" tvg-logo="https://logo.iptveditor.com/sanskar.png" group-title="UK | Other",UK | Sanskar TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8813
+#EXTINF:-1 tvg-id="SikhChannel.uk" tvg-name="UK | Sikh Channel SD" tvg-logo="https://logo.iptveditor.com/sikhtv.png" group-title="UK | Other",UK | Sikh Channel SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9048
+#EXTINF:-1 tvg-id="VenusTV.uk" tvg-name="UK | Siraj TV SD" tvg-logo="https://i.imgur.com/0DhdHAV.png" group-title="UK | Other",UK | Siraj TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9023
+#EXTINF:-1 tvg-id="skynewsarabia.uk" tvg-name="UK | Sky News Arabia SD" tvg-logo="https://i.imgur.com/qVfONIR.png" group-title="UK | Other",UK | Sky News Arabia SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8723
+#EXTINF:-1 tvg-id="SonyChannelUK.uk" tvg-name="UK | Sony Entertainment Television FHD" tvg-logo="https://i.imgur.com/V8pM49c.png" group-title="UK | Other",UK | Sony Entertainment Television FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8614
+#EXTINF:-1 tvg-id="SonyChannelUK.uk" tvg-name="UK | Sony Entertainment Television HD" tvg-logo="https://i.imgur.com/V8pM49c.png" group-title="UK | Other",UK | Sony Entertainment Television HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8789
+#EXTINF:-1 tvg-id="SonyChannelUK.uk" tvg-name="UK | Sony Entertainment Television SD" tvg-logo="https://i.imgur.com/JX1tGJb.png" group-title="UK | Other",UK | Sony Entertainment Television SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9001
+#EXTINF:-1 tvg-id="SonyMaxUK.uk" tvg-name="UK | Sony Max 2 SD" tvg-logo="https://i.imgur.com/TmOGWoP.png" group-title="UK | Other",UK | Sony Max 2 SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8998
+#EXTINF:-1 tvg-id="SonyMaxUK.uk" tvg-name="UK | Sony Max FHD" tvg-logo="https://i.imgur.com/ZjymMrL.png" group-title="UK | Other",UK | Sony Max FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8613
+#EXTINF:-1 tvg-id="SonyMaxUK.uk" tvg-name="UK | Sony Max HD" tvg-logo="https://i.imgur.com/ZjymMrL.png" group-title="UK | Other",UK | Sony Max HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8788
+#EXTINF:-1 tvg-id="SonyMaxUK.uk" tvg-name="UK | Sony Max SD" tvg-logo="https://i.imgur.com/9MVvGkn.png" group-title="UK | Other",UK | Sony Max SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8997
+#EXTINF:-1 tvg-id="sonysab.uk" tvg-name="UK | Sony SAB SD" tvg-logo="https://i.imgur.com/8ltx7y1.png" group-title="UK | Other",UK | Sony SAB SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9000
+#EXTINF:-1 tvg-id="TakbeerTV.uk" tvg-name="UK | Takbeer TV SD" tvg-logo="https://i.imgur.com/mRfmTBg.png" group-title="UK | Other",UK | Takbeer TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9011
+#EXTINF:-1 tvg-id="TBNUK.uk" tvg-name="UK | TBN UK SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/tbn-uk.png" group-title="UK | Other",UK | TBN UK SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8626
+#EXTINF:-1 tvg-id="ThaneDirect.uk" tvg-name="UK | Thane SD" tvg-logo="https://logo.iptveditor.com/thane.png" group-title="UK | Other",UK | Thane SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9056
+#EXTINF:-1 tvg-id="wordnetwork.uk" tvg-name="UK | The Word Network SD" tvg-logo="https://i.imgur.com/31wCXcP.png" group-title="UK | Other",UK | The Word Network SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9026
+#EXTINF:-1 tvg-id="TJC.uk" tvg-name="UK | TJC FHD" tvg-logo="https://i.imgur.com/as3Uj0j.png" group-title="UK | Other",UK | TJC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8733
+#EXTINF:-1 tvg-id="TJC.uk" tvg-name="UK | TJC HD" tvg-logo="https://i.imgur.com/as3Uj0j.png" group-title="UK | Other",UK | TJC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8732
+#EXTINF:-1 tvg-id="TJC.uk" tvg-name="UK | TJC SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/tjc-the-jewellery-channel-uk.png" group-title="UK | Other",UK | TJC SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9016
+#EXTINF:-1 tvg-id="TogetherTV.uk" tvg-name="UK | Together TV SD" tvg-logo="https://logo.iptveditor.com/together.png" group-title="UK | Other",UK | Together TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9051
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="UK | TRT World FHD" tvg-logo="https://logo.iptveditor.com/trtworldhd.png" group-title="UK | Other",UK | TRT World FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8675
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="UK | TRT World HD" tvg-logo="https://logo.iptveditor.com/trtworldhd.png" group-title="UK | Other",UK | TRT World HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8758
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="UK | TRT World SD" tvg-logo="https://logo.iptveditor.com/trtworld.png" group-title="UK | Other",UK | TRT World SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8816
+#EXTINF:-1 tvg-id="0" tvg-name="UK | TV One SD" tvg-logo="https://i.imgur.com/G52koas.png" group-title="UK | Other",UK | TV One SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8724
+#EXTINF:-1 tvg-id="TVWarehouse.uk" tvg-name="UK | TV Warehouse SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/tv-warehouse-uk.png" group-title="UK | Other",UK | TV Warehouse SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9019
+#EXTINF:-1 tvg-id="starbharat.uk" tvg-name="UK | Utsav Bharat SD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/utsav-bharat-uk.png" group-title="UK | Other",UK | Utsav Bharat SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9002
+#EXTINF:-1 tvg-id="UtsavGold.uk" tvg-name="UK | Utsav Gold FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/utsav-gold-hd-uk.png" group-title="UK | Other",UK | Utsav Gold FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8618
+#EXTINF:-1 tvg-id="0" tvg-name="UK | Utsav Gold HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/utsav-gold-hd-uk.png" group-title="UK | Other",UK | Utsav Gold HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8793
+#EXTINF:-1 tvg-id="UtsavGold.uk" tvg-name="UK | Utsav Gold SD" tvg-logo="https://logo.iptveditor.com/utsavgold.png" group-title="UK | Other",UK | Utsav Gold SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9020
+#EXTINF:-1 tvg-id="UtsavPlus.uk" tvg-name="UK | Utsav Plus FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/utsav-plus-hd-uk.png" group-title="UK | Other",UK | Utsav Plus FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8619
+#EXTINF:-1 tvg-id="UtsavPlus.uk" tvg-name="UK | Utsav Plus HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/utsav-plus-hd-uk.png" group-title="UK | Other",UK | Utsav Plus HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8794
+#EXTINF:-1 tvg-id="UtsavPlus.uk" tvg-name="UK | Utsav Plus SD" tvg-logo="https://logo.iptveditor.com/utsavplus.png" group-title="UK | Other",UK | Utsav Plus SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9021
+#EXTINF:-1 tvg-id="voxafricaafrique.uk" tvg-name="UK | Voxafrica SD" tvg-logo="https://logo.iptveditor.com/voxafrica.png" group-title="UK | Other",UK | Voxafrica SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/9057
+#EXTINF:-1 tvg-id="WION.in" tvg-name="UK | WION FHD" tvg-logo="https://logo.iptveditor.com/wion.png" group-title="UK | Other",UK | WION FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8628
+#EXTINF:-1 tvg-id="ZeeTVUK.uk" tvg-name="UK | Zee TV FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/india/zee-tv-hd-in.png" group-title="UK | Other",UK | Zee TV FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8750
+#EXTINF:-1 tvg-id="ZeeTVUK.uk" tvg-name="UK | Zee TV HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/india/zee-tv-hd-in.png" group-title="UK | Other",UK | Zee TV HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8731
+#EXTINF:-1 tvg-id="ZeeTVUK.uk" tvg-name="UK | Zee TV SD" tvg-logo="https://logo.iptveditor.com/zeetv.png" group-title="UK | Other",UK | Zee TV SD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8730
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="ITV X | ITV1 FHD" tvg-logo="https://i.imgur.com/EpGIjlW.png" group-title="UK | ITVX",ITV X | ITV1 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277388
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV X | ITV2 FHD" tvg-logo="https://i.imgur.com/qpAB5sB.png" group-title="UK | ITVX",ITV X | ITV2 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277387
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV X | ITV3 FHD" tvg-logo="https://i.imgur.com/jwzRaSx.png" group-title="UK | ITVX",ITV X | ITV3 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277386
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="ITV X | ITV4 FHD" tvg-logo="https://i.imgur.com/Bp6XhZe.png" group-title="UK | ITVX",ITV X | ITV4 FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277385
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITV X | ITVBe FHD" tvg-logo="https://i.imgur.com/APvIuVK.png" group-title="UK | ITVX",ITV X | ITVBe FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277384
+#EXTINF:-1 tvg-id="CITV.uk" tvg-name="ITV X | CITV FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu1fSaVpBsNZbSrv-UkZ3kU5_N2lMYWB2GPJjoC9UwFMkFu3BoD2edxFgQ7wImviHXKDYYriv3p1oV8ni5RiSWEOXBU06H0OOWosctKSAf3T9Q.png" group-title="UK | ITVX",ITV X | CITV FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277383
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | Christmas Movies FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu2CPpdHZgwy_mPW7AFHmbQk8t29g8dHp81dIXzoKKECYmgdLUQaE0_zWbnN8moJCRY3cnlPW1p3hzaZVmJ0qg0rLEfYiI2qnlBhJyqp6wLbbOku3ozf7qX6ORrYpar6CZQ.png" group-title="UK | ITVX",ITV X | Christmas Movies FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277363
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | Classic Comedy FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu0TCEv_X3_KE8nl270j9gOF8BIQ3DV1oskUlPRP65oyb23tL2e-g6NpuJG_ODRqNHL9rzaiyn6vYLYFi0IIf7mp7HXU_IPvhKjo4Z8TLQe1A7oabilMZE0uRMuIdaDpCD8.png" group-title="UK | ITVX",ITV X | Classic Comedy FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277379
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | Classic Movies FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu1PTo2wUOHQYfjcxoHR3If4pA-Cq2AbsyQQsv0the5jKwh7zsqmPANS3zcB26nkZwZ5_EyrTPqQj-UZYv5tJsu3bMfQuh8f7TgcfhNmH4p4h995_PBk_nJo-Sw0Azssx0o.png" group-title="UK | ITVX",ITV X | Classic Movies FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277376
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | Crime/Drama FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu1CEt5YAhG457B9D__iBg5I61uwoemyLuXhl8oosk9HGPTNXdjeAkDU3OV6wa-r95Uuv3rShHcTXrGtoVnv57ZUutN4l-dqQ7xj5qkNvfLFtDtzsK2Z4XFcGfZ5zWISSw0.png" group-title="UK | ITVX",ITV X | Crime/Drama FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277367
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | Hell's Kitchen FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu0Bp4OY1bnVBxYve4Dtvkz6mvrLqNLXTY_8yojtxop8pQuIZTJmRetPYLRnNKRXpPC4J-kj_KbwYe059kd0auGvTxk25Kbth8zo1dwt7YjIPUD6q9nEFPRbIeVeRLMulAc.png" group-title="UK | ITVX",ITV X | Hell's Kitchen FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277373
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | ITV Classics FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu3BeCsVNOCmYG0ai0t3VmEnc8TT2raFEOIS4f_cd9KD_WExhXi_cSVgIkOMp7U_ZshjltYWfzPhmSCE5KbqL3ReOukgSkraz1cGWjaxhAZvBhlMnvcNNFxr1hFSxW3Xnhg.png" group-title="UK | ITVX",ITV X | ITV Classics FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277381
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | ITV Signed FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu3EU-To-DjJEBzXj0EZZQnVnn8MNx9WexiU88HYvIo2uRJNHJThTVLNyIAYen2AlDNvWFeiT28_yM-Xwq7yeU-ljWs9kLaq9xLzKLlK3WipRFsMAQSWPV3Bm_J_xxSr8uk.png" group-title="UK | ITVX",ITV X | ITV Signed FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277382
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | Love Island International FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu0zqReJADquKyMMGg6inXQI46fXCJsT8mvuT2IlDNEQUBB7QFg1IOm5mHdQb4zn94clAun4bTSJFyX3ugRJtYsfgNrngW1wzV6E9nMFTbcZ9PgjqU8rpu0ObPQcZPfUZoE.png" group-title="UK | ITVX",ITV X | Love Island International FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277375
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | Love Island International FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu0qesTzLfLqv6SAID641PyZqpio_nf0DB3DEmpPo98NdxMOIR_xPSBDiLINCDv8svhFayzkSmDPR-9Qyan4BnK41VTWGb9VC21GBXVxMOlWH6imy6_i4jZ3wcxy0QfCTrs.png" group-title="UK | ITVX",ITV X | Love Island International FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277369
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | Loved Up FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu0PAXBMs3TPkhLggoRbMRTWyrhERdRA9YjU8eWS0Ims3NjbjU-URTI8zDy9wdeTAf70M6F_ELXq7bCzsoJWr5TrSdBPXP3a4I2GWbF-zghX1w.png" group-title="UK | ITVX",ITV X | Loved Up FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277365
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | Midsommer Murders FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu0bF1e7FSX4uXLjAT2e11bpSrUEmoQ6eg40POoesS4BlhO5mAUqqnZz9GZ4v_UFwCNPpYgz21Xh8pcvDSTt97qUW4a0iunTOeMTxxmA60N6cjbZkDAkv_Jm2ynk5AAnFkk.png" group-title="UK | ITVX",ITV X | Midsommer Murders FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277378
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | Out of This World FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu17cLEhWAl8XDd0CCBun1DFMZbtOVRAk7nDp8OokXuPMngpwhvK7fNVvDLzKo0Ku851OIsDsPti8u8wWRd5wnw7ICIHf1LmCTryqVZhUFAXYvB2MmAQrAuej9-1nbjUMSM.png" group-title="UK | ITVX",ITV X | Out of This World FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277374
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | Saturday Night Every Night FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu0sGYIA1W1Qz0Xx-YZmKCkm6pFoGtQ8IwavJlhAgWtlsScUIPF4xnZTi2jOiImXDzcPtYw8XzaMtGMwiVMmakrb_ztymSIwCQBX3_yQbEkmcaAtquAmHswX-pwLd3p01ZY.png" group-title="UK | ITVX",ITV X | Saturday Night Every Night FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277372
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | The Chase FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu2IYfZkSzJ54vfXDing2TMEDVLFcd3950AuaGw90MgBTRBHA332sI_P47ITn2uiLgvGAXqsJwNZqmZpZKrEC_sgM3ES7pLJXyesiSVNaPTYCg.png" group-title="UK | ITVX",ITV X | The Chase FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277380
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | The Only Way is Essex TV FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu3uxHAZEcGR7XWhuXbeTAG73SWXlfu-L0oTiX2FVniCfK7N5pV6qPD-umxFhXpxNazurocaqsD0E3AuxM6ldyEEJYw6eYN7sPXahuByRjg45A.png" group-title="UK | ITVX",ITV X | The Only Way is Essex TV FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277368
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | The Real Housewives UK FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu2GqnPQJ-G7bJhLw0HBltjTQsai6xWUvGYJVAciPcXutM9TIOAszwiNo9rDBJWsnkZeJONlRzVtmn9Y47BcqWOljT3fjE4j4SqCP7IZsmdK6bLEXdO3AmVpDBBUaKT7pnY.png" group-title="UK | ITVX",ITV X | The Real Housewives UK FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277366
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | True Crime International FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu0HfBicMWXfVeEHIPY6_NG11c-EjcuPR5T1eaTtrLYVDOjCEho-LygI6FDpcaWKAg01bHzYH99UCmRPaEouaXxToCDa7ltr66KSSiI-1yPDKQTZXCdUz7KfMt76e1RzCR8.png" group-title="UK | ITVX",ITV X | True Crime International FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277377
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | Unwind FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu049324qeABZXONt6GYUpGsnrdppLWrLdBAnk4aKDombLBtPU6W4-Xjq8_c9-GxhD1-KSq0xbN9pNydrHS48l1jf0oaFz4l-Uzyha-on2wNCw.png" group-title="UK | ITVX",ITV X | Unwind FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277364
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | Vera FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu0Iu0yfCQ8znDfwNmQ-kYft-uduWlzv5rlTUPtbfjueHyLei9bTbviPjcibklxBg-ac2xIftWbeAHQcuFvUqGavUhGT7rTg_oVsHmSsEx0rZw.png" group-title="UK | ITVX",ITV X | Vera FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277370
+#EXTINF:-1 tvg-id="" tvg-name="ITV X | World of Morse FHD" tvg-logo="http://xtreamraws.cc:80/images/YPX8Gm1227654YFyeM2MyN1fefKbBLK4vDeUGmKZIu0R_5e3P2EcnifA3AKEsC5-MVK7Zq6pahtiq38RQYgu0iQRbrajOrdTEAsd9RV1pMiiE2xdiByl3hDFP59580y3qZGo1RpYPBpkkxUf0M35raiUQs0QA1k9z7OWj3lTEmc.png" group-title="UK | ITVX",ITV X | World of Morse FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277371
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK | Alibi HEVC FHD" tvg-logo="https://i.imgur.com/9jw3jqr.png" group-title="UK | HEVC",UK | Alibi HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277362
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK | ALIBI HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | ALIBI HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277326
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK | BBC News HEVC FHD" tvg-logo="https://i.imgur.com/NsCeHyM.png" group-title="UK | HEVC",UK | BBC News HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8509
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK | BBC News HEVC HD" tvg-logo="https://i.imgur.com/NsCeHyM.png" group-title="UK | HEVC",UK | BBC News HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8489
+#EXTINF:-1 tvg-id="BBCOneLondon.uk" tvg-name="UK | BBC One HEVC FHD" tvg-logo="https://i.imgur.com/FQs0y4K.png" group-title="UK | HEVC",UK | BBC One HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8511
+#EXTINF:-1 tvg-id="BBCOneLondon.uk" tvg-name="UK | BBC One HEVC HD" tvg-logo="https://i.imgur.com/FQs0y4K.png" group-title="UK | HEVC",UK | BBC One HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8491
+#EXTINF:-1 tvg-id="BBCTwoEngland.uk" tvg-name="UK | BBC Two HEVC FHD" tvg-logo="https://i.imgur.com/Gb3UQYC.png" group-title="UK | HEVC",UK | BBC Two HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8510
+#EXTINF:-1 tvg-id="BBC.Two.uk" tvg-name="UK | BBC Two HEVC HD" tvg-logo="https://i.imgur.com/Gb3UQYC.png" group-title="UK | HEVC",UK | BBC Two HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8490
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-name="UK | Bloomberg HEVC FHD" tvg-logo="https://i.imgur.com/tvR3QTw.png" group-title="UK | HEVC",UK | Bloomberg HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277361
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK | Boomerang HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Boomerang HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277360
+#EXTINF:-1 tvg-id="BoomerangUK.uk" tvg-name="UK | Boomerang HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Boomerang HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277324
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK | BT Sport 1 HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/bt-sport-1-hd-uk.png" group-title="UK | HEVC",UK | BT Sport 1 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8448
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK | BT Sport 1 HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/bt-sport-1-hd-uk.png" group-title="UK | HEVC",UK | BT Sport 1 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8418
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK | BT Sport 1 HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/bt-sport-1-hd-uk.png" group-title="UK | HEVC",UK | BT Sport 1 HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8449
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK | BT Sport 2 HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/bt-sport-2-hd-uk.png" group-title="UK | HEVC",UK | BT Sport 2 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8420
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK | BT Sport 2 HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/bt-sport-2-hd-uk.png" group-title="UK | HEVC",UK | BT Sport 2 HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8419
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK | BT Sport 3 HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/bt-sport-3-hd-uk.png" group-title="UK | HEVC",UK | BT Sport 3 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8422
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK | BT Sport 3 HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/bt-sport-3-hd-uk.png" group-title="UK | HEVC",UK | BT Sport 3 HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8421
+#EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="UK | BT Sport 4 HEVC FHD" tvg-logo="https://i.imgur.com/Ae0JeiD.png" group-title="UK | HEVC",UK | BT Sport 4 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8424
+#EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="UK | BT Sport 4 HEVC HD" tvg-logo="https://i.imgur.com/Ae0JeiD.png" group-title="UK | HEVC",UK | BT Sport 4 HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8423
+#EXTINF:-1 tvg-id="BTSportBoxOffice.uk" tvg-name="UK | BT Sport Box Office HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/bt-sport-box-office-hd-uk.png" group-title="UK | HEVC",UK | BT Sport Box Office HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8425
+#EXTINF:-1 tvg-id="CartoonNetworkUK.uk" tvg-name="UK | Cartoon Network HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Cartoon Network HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277359
+#EXTINF:-1 tvg-id="CartoonNetworkUK.uk" tvg-name="UK | Cartoon Network HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Cartoon Network HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277323
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK | Channel 4 HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/channel-4-hd-uk.png" group-title="UK | HEVC",UK | Channel 4 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8508
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK | Channel 4 HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/channel-4-hd-uk.png" group-title="UK | HEVC",UK | Channel 4 HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8488
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK | Channel 5 HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/channel-5-hd-uk.png" group-title="UK | HEVC",UK | Channel 5 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8507
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK | Channel 5 HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/channel-5-hd-uk.png" group-title="UK | HEVC",UK | Channel 5 HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8487
+#EXTINF:-1 tvg-id="colors.uk" tvg-name="UK | Colors HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Colors HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277358
+#EXTINF:-1 tvg-id="colors.uk" tvg-name="UK | Colors HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Colors HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277322
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK | Comedy Central HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Comedy Central HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277357
+#EXTINF:-1 tvg-id="ComedyCentralUK.uk" tvg-name="UK | Comedy Central HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Comedy Central HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277321
+#EXTINF:-1 tvg-id="crime&investigation.uk" tvg-name="UK | Crime Investigation HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Crime Investigation HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277356
+#EXTINF:-1 tvg-id="CrimePlusInvestigationUK.uk" tvg-name="UK | Crime Investigation HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Crime Investigation HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277320
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK | Discovery HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Discovery HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277355
+#EXTINF:-1 tvg-id="DiscoveryChannelUK.uk" tvg-name="UK | Discovery HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Discovery HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277319
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK | E4 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | E4 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277354
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK | E4 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | E4 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277318
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK | Eurosports 1 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Eurosports 1 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277353
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK | Eurosports 1 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Eurosports 1 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277317
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK | Eurosports 2 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Eurosports 2 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277352
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK | Eurosports 2 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Eurosports 2 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277316
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK | FILM 4 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | FILM 4 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277351
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK | FILM 4 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | FILM 4 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277315
+#EXTINF:-1 tvg-id="gbnews.uk" tvg-name="UK | GB News HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | GB News HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277350
+#EXTINF:-1 tvg-id="gbnews.uk" tvg-name="UK | GB News HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | GB News HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277314
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK | GOLD HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | GOLD HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277349
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK | GOLD HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | GOLD HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277313
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK | ITV 2 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | ITV 2 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277348
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK | ITV 2 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | ITV 2 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277312
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK | ITV 3 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | ITV 3 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277347
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK | ITV 3 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | ITV 3 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277311
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK | ITV 4 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | ITV 4 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277346
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK | ITV 4 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | ITV 4 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277310
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="UK | ITV1 HEVC FHD" tvg-logo="https://i.imgur.com/NUodOpI.png" group-title="UK | HEVC",UK | ITV1 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8506
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK | ITV1 HEVC HD" tvg-logo="https://i.imgur.com/NUodOpI.png" group-title="UK | HEVC",UK | ITV1 HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8486
+#EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="UK | LFC HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | LFC HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277345
+#EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="UK | LFC HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | LFC HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277309
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK | More4 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | More4 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277344
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK | More4 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | More4 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277308
+#EXTINF:-1 tvg-id="MTVUK.uk" tvg-name="UK | MTV HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | MTV HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277343
+#EXTINF:-1 tvg-id="MTVMusicUK.uk" tvg-name="UK | MTV HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | MTV HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277307
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK | MUTV HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | MUTV HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277342
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK | MUTV HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | MUTV HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277306
+#EXTINF:-1 tvg-id="NationalGeographicWildUK.uk" tvg-name="UK | Nat Geo WIld HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Nat Geo WIld HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277340
+#EXTINF:-1 tvg-id="NationalGeographicWildUK.uk" tvg-name="UK | Nat Geo WIld HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Nat Geo WIld HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277304
+#EXTINF:-1 tvg-id="NationalGeographicUK.uk" tvg-name="UK | National Geo HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | National Geo HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277341
+#EXTINF:-1 tvg-id="NationalGeographicUK.uk" tvg-name="UK | National Geo HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | National Geo HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277305
+#EXTINF:-1 tvg-id="NickelodeonUK.uk" tvg-name="UK | NICK HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | NICK HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277339
+#EXTINF:-1 tvg-id="NickelodeonUK.uk" tvg-name="UK | NICK HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | NICK HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277303
+#EXTINF:-1 tvg-id="nickjr.uk" tvg-name="UK | Nick Jr HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Nick Jr HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277338
+#EXTINF:-1 tvg-id="nickjr.uk" tvg-name="UK | Nick Jr HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Nick Jr HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277302
+#EXTINF:-1 tvg-id="premiersports1.uk" tvg-name="UK | Premier Sports 1 Ireland HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Premier Sports 1 Ireland HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277337
+#EXTINF:-1 tvg-id="premier1.ie" tvg-name="UK | Premier Sports 1 Ireland HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Premier Sports 1 Ireland HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277301
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK | Premier Sports 2 Ireland HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Premier Sports 2 Ireland HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277336
+#EXTINF:-1 tvg-id="" tvg-name="UK | Premier Sports 2 Ireland HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Premier Sports 2 Ireland HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277300
+#EXTINF:-1 tvg-id="RacingTV.uk" tvg-name="UK | Racing TV HEVC FHD" tvg-logo="https://i.imgur.com/stLmiX9.png" group-title="UK | HEVC",UK | Racing TV HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8505
+#EXTINF:-1 tvg-id="RacingTV.uk" tvg-name="UK | Racing TV HEVC HD" tvg-logo="https://i.imgur.com/stLmiX9.png" group-title="UK | HEVC",UK | Racing TV HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8485
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK | SKY ARTS HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | SKY ARTS HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277335
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK | SKY ARTS HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | SKY ARTS HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277299
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK | Sky Atlantic HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-atlantic-hd-uk.png" group-title="UK | HEVC",UK | Sky Atlantic HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8504
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK | Sky Atlantic HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-atlantic-hd-uk.png" group-title="UK | HEVC",UK | Sky Atlantic HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8484
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="UK | Sky Cinema Action HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-action-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Action HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8470
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="UK | Sky Cinema Action HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-action-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Action HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8459
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="UK | Sky Cinema Animation HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-animation-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Animation HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8471
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="UK | Sky Cinema Animation HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-animation-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Animation HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8460
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK | Sky Cinema Comedy HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-comedy-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Comedy HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8469
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK | Sky Cinema Comedy HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-comedy-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Comedy HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8458
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK | Sky Cinema Drama HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-drama-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Drama HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8468
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK | Sky Cinema Drama HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-drama-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Drama HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8457
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK | Sky Cinema Family HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-family-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Family HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8467
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK | Sky Cinema Family HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-family-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Family HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8456
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK | Sky Cinema Greats HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-greats-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Greats HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8466
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK | Sky Cinema Greats HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-greats-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Greats HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8455
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK | Sky Cinema Hits HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-hits-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Hits HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8465
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK | Sky Cinema Hits HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-hits-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Hits HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8454
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK | Sky Cinema Premiere HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-premiere-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Premiere HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8464
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK | Sky Cinema Premiere HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-premiere-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Premiere HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8453
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK | Sky Cinema Sci-Fi Horror HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-sci-fi-and-horror-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Sci-Fi Horror HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8463
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK | Sky Cinema Sci-Fi Horror HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-sci-fi-and-horror-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Sci-Fi Horror HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8452
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="UK | Sky Cinema Select HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-select-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Select HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8462
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="UK | Sky Cinema Select HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-select-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Select HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8451
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK | Sky Cinema Thriller HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-thriller-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Thriller HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8461
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK | Sky Cinema Thriller HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-cinema-thriller-hd-uk.png" group-title="UK | HEVC",UK | Sky Cinema Thriller HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8450
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK | Sky Comedy HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-comedy-hd-uk.png" group-title="UK | HEVC",UK | Sky Comedy HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8503
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK | Sky Comedy HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-comedy-hd-uk.png" group-title="UK | HEVC",UK | Sky Comedy HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8483
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="UK | Sky Crime HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-crime-hd-uk.png" group-title="UK | HEVC",UK | Sky Crime HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8502
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="UK | Sky Crime HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-crime-hd-uk.png" group-title="UK | HEVC",UK | Sky Crime HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8482
+#EXTINF:-1 tvg-id="SkyHistory2.uk" tvg-name="UK | Sky History 2 HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-history-2-light-hd-uk.png" group-title="UK | HEVC",UK | Sky History 2 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8500
+#EXTINF:-1 tvg-id="SkyHistory2.uk" tvg-name="UK | Sky History 2 HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-history-2-light-hd-uk.png" group-title="UK | HEVC",UK | Sky History 2 HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8480
+#EXTINF:-1 tvg-id="SkyHistory.uk" tvg-name="UK | Sky History HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-history-light-hd-uk.png" group-title="UK | HEVC",UK | Sky History HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8501
+#EXTINF:-1 tvg-id="SkyHistory.uk" tvg-name="UK | Sky History HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-history-light-hd-uk.png" group-title="UK | HEVC",UK | Sky History HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8481
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK | Sky Nature HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Sky Nature HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277334
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK | Sky Nature HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Sky Nature HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277298
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK | Sky News HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-news-hd-uk.png" group-title="UK | HEVC",UK | Sky News HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8499
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK | Sky News HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-news-hd-uk.png" group-title="UK | HEVC",UK | Sky News HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8479
+#EXTINF:-1 tvg-id="skyscifi.uk" tvg-name="UK | Sky Sci-Fi HEVC FHD" tvg-logo="https://i.imgur.com/KasEQvp.png" group-title="UK | HEVC",UK | Sky Sci-Fi HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8494
+#EXTINF:-1 tvg-id="SyfyUK.uk" tvg-name="UK | Sky Sci-Fi HEVC HD" tvg-logo="https://i.imgur.com/KasEQvp.png" group-title="UK | HEVC",UK | Sky Sci-Fi HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8474
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-name="UK | Sky Showcase HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-showcase-hd-uk.png" group-title="UK | HEVC",UK | Sky Showcase HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8498
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-name="UK | Sky Showcase HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-showcase-hd-uk.png" group-title="UK | HEVC",UK | Sky Showcase HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8478
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK | Sky Sports Action HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-action-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Action HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8447
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK | Sky Sports Action HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-action-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Action HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8436
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK | Sky Sports Arena HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-arena-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Arena HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8446
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK | Sky Sports Arena HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-arena-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Arena HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8435
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="UK | Sky Sports Box Office HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-box-office-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Box Office HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8513
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="UK | Sky Sports Box Office HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-box-office-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Box Office HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8512
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK | Sky Sports Cricket HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-cricket-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Cricket HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8445
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK | Sky Sports Cricket HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-cricket-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Cricket HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8434
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK | Sky Sports F1 HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-f1-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports F1 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8444
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK | Sky Sports F1 HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-f1-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports F1 HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8433
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK | Sky Sports Football HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-football-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Football HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8443
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK | Sky Sports Football HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-football-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Football HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8432
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK | Sky Sports Golf HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-golf-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Golf HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8442
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK | Sky Sports Golf HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-golf-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Golf HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8431
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK | Sky Sports Main Event HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-main-event-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Main Event HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8441
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK | Sky Sports Main Event HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-main-event-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Main Event HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8430
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK | Sky Sports Mix HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-mix-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Mix HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8440
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK | Sky Sports Mix HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-mix-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Mix HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8429
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK | Sky Sports News HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-news-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports News HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8439
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK | Sky Sports News HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-news-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports News HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8428
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK | Sky Sports Premier League HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-premier-league-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Premier League HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8438
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK | Sky Sports Premier League HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-premier-league-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Premier League HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8427
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK | Sky Sports Racing HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-racing-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Racing HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8437
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK | Sky Sports Racing HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-sports-racing-hd-uk.png" group-title="UK | HEVC",UK | Sky Sports Racing HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8426
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK | Sky Witness HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-witness-hd-uk.png" group-title="UK | HEVC",UK | Sky Witness HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8497
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK | Sky Witness HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/sky-witness-hd-uk.png" group-title="UK | HEVC",UK | Sky Witness HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8477
+#EXTINF:-1 tvg-id="SonyMaxUK.uk" tvg-name="UK | Sony Entertainment Television HEVC FHD" tvg-logo="https://i.imgur.com/V8pM49c.png" group-title="UK | HEVC",UK | Sony Entertainment Television HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8495
+#EXTINF:-1 tvg-id="SonyChannelUK.uk" tvg-name="UK | Sony Entertainment Television HEVC HD" tvg-logo="https://i.imgur.com/V8pM49c.png" group-title="UK | HEVC",UK | Sony Entertainment Television HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8475
+#EXTINF:-1 tvg-id="SonyMaxUK.uk" tvg-name="UK | Sony Max HEVC FHD" tvg-logo="https://i.imgur.com/ZjymMrL.png" group-title="UK | HEVC",UK | Sony Max HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8496
+#EXTINF:-1 tvg-id="SonyMaxUK.uk" tvg-name="UK | Sony Max HEVC HD" tvg-logo="https://i.imgur.com/ZjymMrL.png" group-title="UK | HEVC",UK | Sony Max HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8476
+#EXTINF:-1 tvg-id="TLCUK.uk" tvg-name="UK | TLC HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | TLC HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277333
+#EXTINF:-1 tvg-id="TLCUK.uk" tvg-name="UK | TLC HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | TLC HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277297
+#EXTINF:-1 tvg-id="UtsavGold.uk" tvg-name="UK | Utsav Gold HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/utsav-gold-hd-uk.png" group-title="UK | HEVC",UK | Utsav Gold HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8493
+#EXTINF:-1 tvg-id="UtsavGold.uk" tvg-name="UK | Utsav Gold HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/utsav-gold-hd-uk.png" group-title="UK | HEVC",UK | Utsav Gold HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8473
+#EXTINF:-1 tvg-id="utsavplus.uk" tvg-name="UK | Utsav Plus HEVC FHD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/utsav-plus-hd-uk.png" group-title="UK | HEVC",UK | Utsav Plus HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8492
+#EXTINF:-1 tvg-id="UtsavPlus.uk" tvg-name="UK | Utsav Plus HEVC HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-kingdom/hd/utsav-plus-hd-uk.png" group-title="UK | HEVC",UK | Utsav Plus HEVC HD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8472
+#EXTINF:-1 tvg-id="viaplaysports1.uk" tvg-name="UK | Viaplay 1 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Viaplay 1 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277332
+#EXTINF:-1 tvg-id="viaplaysports1.uk" tvg-name="UK | Viaplay 1 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Viaplay 1 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277296
+#EXTINF:-1 tvg-id="viaplaysports2.uk" tvg-name="UK | Viaplay 2 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Viaplay 2 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277331
+#EXTINF:-1 tvg-id="viaplaysports2.uk" tvg-name="UK | Viaplay 2 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Viaplay 2 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277295
+#EXTINF:-1 tvg-id="virginmediaone.ie" tvg-name="UK | Virgin 1 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Virgin 1 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277330
+#EXTINF:-1 tvg-id="virginmediaone.ie" tvg-name="UK | Virgin 1 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Virgin 1 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277294
+#EXTINF:-1 tvg-id="virginmediatwo.ie" tvg-name="UK | VIRGIN 2 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | VIRGIN 2 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277329
+#EXTINF:-1 tvg-id="virginmediatwo.ie" tvg-name="UK | VIRGIN 2 HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | VIRGIN 2 HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277293
+#EXTINF:-1 tvg-id="" tvg-name="UK | Watch HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Watch HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277328
+#EXTINF:-1 tvg-id="" tvg-name="UK | Watch HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Watch HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277292
+#EXTINF:-1 tvg-id="zeetv.uk" tvg-name="UK | Zee Tv HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Zee Tv HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277327
+#EXTINF:-1 tvg-id="zeetv.uk" tvg-name="UK | Zee Tv HEVC FHD" tvg-logo="" group-title="UK | HEVC",UK | Zee Tv HEVC FHD
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/277291
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://logo.iptveditor.com/smithsonianchannel.png" group-title="US | General",SMITHSONIAN CHANNEL
+http://beams-tv.stream:80/ev6Mb5fZs/518014609/8023
+
